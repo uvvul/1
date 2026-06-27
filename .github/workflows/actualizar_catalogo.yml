@@ -1,0 +1,37 @@
+name: Actualizar Catálogo
+
+on:
+  schedule:
+    - cron: '0 0 * * 0'
+  workflow_dispatch: 
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Clonar repositorio
+        uses: actions/checkout@v5 
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }} 
+
+      - name: Configurar Node.js
+        uses: actions/setup-node@v5 
+        with:
+          node-version: 24 
+
+      - name: Ejecutar Crawler
+        run: node crawler.js
+
+      - name: Auto-guardar cambios mediante Git Nativo
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          
+          git add catalogo.json
+          
+          if ! git diff --cached --exit-code; then
+            git commit -m "Bot: Catálogo actualizado automáticamente"
+            git push origin HEAD:${{ github.ref_name }}
+          else
+            echo "No se detectaron cambios en el catálogo. Saltando commit."
+          fi
