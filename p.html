@@ -1,0 +1,17 @@
+<script src="https://cdn.jsdelivr.net/npm/hls.js@latest/dist/hls.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/@oplayer/core@latest/dist/index.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/@oplayer/ui@latest/dist/index.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/@oplayer/hls@latest/dist/index.min.js"></script>
+
+<div id="oplayer" />
+
+<script>
+  OPlayer.make('#oplayer', {
+    source: {
+      src: 'https://stream.mux.com/DSGTFiAFI4XIy2EMAI7AgqcX01XacP9vZq5V94Vq2Lp4.m3u8?token=eyJhbGciOiJSUzI1NiJ9.eyJraWQiOiJGMDFHc2doUkVIM0RjZEowMGdZaDRKUHg3cW9SM2pDVENGaGR6YUtrT2lNdGMiLCJzdWIiOiJEU0dURmlBRkk0WEl5MkVNQUk3QWdxY1gwMVhhY1A5dlpxNVY5NFZxMkxwNCIsImF1ZCI6InYiLCJleHAiOjE3ODU3NTcwODV9.jFheXclVCx5PfWyfRO38bQDlkmgBFxajDS_PVCLpvlL3wyRi9HwfsywFQD0uvv5xMYsP1O9RuZhd1z-eMqrs8zRSvidg_lmw2ji1uzYE5Bg_YGSNht8QioTOLbFwaRSvB8Qe_-75jm6jTUQFr6iVHTM1XDS8UX8u0nnuxtamejfwRcd9rqPw2rwemzUBC2SceRfdPQEC40RLNuoN42OfPyYsh5Wv5R8pfeMcughrVaKp78hTCcUO-OCif9YQRheQe3g9CiBVnKypLxh8xYSqMW4ZrZcWsJcNJmR79ZQQ6t-hv-Yx_fy2MjafGVztZr3r9Ba2RrCTY6O7eMVVy23wFw',
+      poster: 'https://oplayer.vercel.app/poster.png'
+    }
+  })
+    .use([OUI(), OHls()])
+    .create()
+</script>
