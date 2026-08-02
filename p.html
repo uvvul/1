@@ -1,17 +1,80 @@
-<script src="https://cdn.jsdelivr.net/npm/hls.js@latest/dist/hls.min.js"></script>
-<script src="https://cdn.jsdelivr.net/npm/@oplayer/core@latest/dist/index.min.js"></script>
-<script src="https://cdn.jsdelivr.net/npm/@oplayer/ui@latest/dist/index.min.js"></script>
-<script src="https://cdn.jsdelivr.net/npm/@oplayer/hls@latest/dist/index.min.js"></script>
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
+    <meta http-equiv="Pragma" content="no-cache">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard/dist/web/static/pretendard.css">
+    <style>
+        body, html {
+            margin: 0;
+            padding: 0;
+            width: 100%;
+            height: 100%;
+            overflow: hidden;
+        }
+        #player_id, #error-image {
+            width: 100%;
+            height: 100%;
+            --op-accent-color: #fff;
+        }
+        .op-progressbar-container.op-clear, .op-live-badge {
+            display: none !important;
+        }
+        .op-live-text,
+        .op-setting-title,
+        .op-context-item-text,
+        .op-setting-item-title,
+        .op-setting-item-value,
+        .op-setting-item-nexticon {
+            font-family: 'Pretendard', sans-serif;
+        }
+        #error-image {
+            display: none;
+            object-fit: cover;
+            transform: translateZ(0);
+        }
+    </style>
+</head>
+<body>
+    <div id="player_id"></div>
+    <img id="error-image" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEirTyb8TT-LEJ4QxNLpjagX3BkyiVxoCBr_K2d5miwRRRMZkCK15sdxEzCC6mxIAuoOGbOxBrAWE14Q2mvzNiAfr7xAHTIiVO2LNvUDt_GuasNW16KYWdDD0mey2s9bBcRhzfgttovxNE3aos4fLnzac7Hku6wehNcCtyMtjejutz7Sg1PU_v_BpB4A/s1600/image.png" alt="Stream off">
 
-<div id="oplayer" />
+    <script src="https://cdn.jsdelivr.net/npm/hls.js@latest/dist/hls.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/ovenplayer/dist/ovenplayer.js"></script>
+    <script>
+        const player = OvenPlayer.create('player_id', {
+            autoStart: true,
+            mute: false,
+          controls: true,
+            //waterMark: {
+              //  text: 'uvvul', // Texto de la marca de agua
+                //font: {
+                  //  'font-size': '15px',
+                    //'color': 'rgba(255,255,255,0.3)',
+                    //'font-weight': 'bold'
+                //},
+               // position: 'bottom-right' // Posición de la marca de agua
+            //},
+            sources: [
+        {
+            type: 'hls',
+            file: 'https://stream.mux.com/DSGTFiAFI4XIy2EMAI7AgqcX01XacP9vZq5V94Vq2Lp4.m3u8?token=eyJhbGciOiJSUzI1NiJ9.eyJraWQiOiJGMDFHc2doUkVIM0RjZEowMGdZaDRKUHg3cW9SM2pDVENGaGR6YUtrT2lNdGMiLCJzdWIiOiJEU0dURmlBRkk0WEl5MkVNQUk3QWdxY1gwMVhhY1A5dlpxNVY5NFZxMkxwNCIsImF1ZCI6InYiLCJleHAiOjE3ODU3NTcwODV9.jFheXclVCx5PfWyfRO38bQDlkmgBFxajDS_PVCLpvlL3wyRi9HwfsywFQD0uvv5xMYsP1O9RuZhd1z-eMqrs8zRSvidg_lmw2ji1uzYE5Bg_YGSNht8QioTOLbFwaRSvB8Qe_-75jm6jTUQFr6iVHTM1XDS8UX8u0nnuxtamejfwRcd9rqPw2rwemzUBC2SceRfdPQEC40RLNuoN42OfPyYsh5Wv5R8pfeMcughrVaKp78hTCcUO-OCif9YQRheQe3g9CiBVnKypLxh8xYSqMW4ZrZcWsJcNJmR79ZQQ6t-hv-Yx_fy2MjafGVztZr3r9Ba2RrCTY6O7eMVVy23wFw',
+        },
+    ],
+            hlsConfig: {
+                lowLatencyMode: true
+            }
+        });
 
-<script>
-  OPlayer.make('#oplayer', {
-    source: {
-      src: 'https://stream.mux.com/DSGTFiAFI4XIy2EMAI7AgqcX01XacP9vZq5V94Vq2Lp4.m3u8?token=eyJhbGciOiJSUzI1NiJ9.eyJraWQiOiJGMDFHc2doUkVIM0RjZEowMGdZaDRKUHg3cW9SM2pDVENGaGR6YUtrT2lNdGMiLCJzdWIiOiJEU0dURmlBRkk0WEl5MkVNQUk3QWdxY1gwMVhhY1A5dlpxNVY5NFZxMkxwNCIsImF1ZCI6InYiLCJleHAiOjE3ODU3NTcwODV9.jFheXclVCx5PfWyfRO38bQDlkmgBFxajDS_PVCLpvlL3wyRi9HwfsywFQD0uvv5xMYsP1O9RuZhd1z-eMqrs8zRSvidg_lmw2ji1uzYE5Bg_YGSNht8QioTOLbFwaRSvB8Qe_-75jm6jTUQFr6iVHTM1XDS8UX8u0nnuxtamejfwRcd9rqPw2rwemzUBC2SceRfdPQEC40RLNuoN42OfPyYsh5Wv5R8pfeMcughrVaKp78hTCcUO-OCif9YQRheQe3g9CiBVnKypLxh8xYSqMW4ZrZcWsJcNJmR79ZQQ6t-hv-Yx_fy2MjafGVztZr3r9Ba2RrCTY6O7eMVVy23wFw',
-      poster: 'https://oplayer.vercel.app/poster.png'
-    }
-  })
-    .use([OUI(), OHls()])
-    .create()
-</script>
+        player.on('error', () => {
+            document.getElementById('error-image').style.display = 'block';
+            document.getElementById('player_id').style.display = 'none';
+        });
+
+        player.on('play', () => {
+            document.getElementById('error-image').style.display = 'none';
+            document.getElementById('player_id').style.display = 'block';
+        });
+    </script>
+</body>
