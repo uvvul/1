@@ -64,12 +64,16 @@ async function runCrawler() {
             titlesToProcess = allCatalogItems;
             console.log(`Títulos obtenidos del catálogo: ${titlesToProcess.length}`);
         } else {
-            console.log('Revisando los últimos 50 títulos...');
-            const response = await fetch(`${CATALOG_BASE_URL}&offset=0`);
-            if (!response.ok) throw new Error(`Error en respuesta (${response.status})`);
-            
+            // MODO INCREMENTAL (Revisa los últimos 50 títulos usando offset=0)
+            console.log('Revisando los últimos 50 títulos para buscar novedades semanales...');
+            const response = await fetch(`${CATALOG_API_URL}&offset=0`); // <--- Cambiar &page=1 por &offset=0
+
+            if (!response.ok) throw new Error(`Error en el catálogo incremental (Status: ${response.status})`);
+
             const catalogData = await response.json();
             const latestItems = catalogData.items || [];
+
+            // Filtrar solo lo que NO tengamos guardado en el JSON local
             titlesToProcess = latestItems.filter(item => !existingIds.has(String(item.id)));
         }
 
