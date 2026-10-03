@@ -1,81 +1,25 @@
+<!DOCTYPE html>
+<html lang="es">
 <head>
     <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
-    <meta http-equiv="Pragma" content="no-cache">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard/dist/web/static/pretendard.css">
-    <style>
-        body, html {
-            margin: 0;
-            padding: 0;
-            width: 100%;
-            height: 100%;
-            overflow: hidden;
-        }
-        #player_id, #error-image {
-            width: 100%;
-            height: 100%;
-            --op-accent-color: #fff;
-        }
-        .op-live-text,
-        .op-setting-title,
-        .op-context-item-text,
-        .op-setting-item-title,
-        .op-setting-item-value,
-        .op-setting-item-nexticon {
-            font-family: 'Pretendard', sans-serif;
-        }
-        #error-image {
-            display: none;
-            object-fit: cover;
-            transform: translateZ(0);
-        }
-    </style>
+    <title>JW Player 8</title>
+    
+    <!-- CDN público desde unpkg (Versión estática de JW Player) -->
+    <script src="https://content.jwplatform.com/libraries/wB2mA3ok.js"></script>
 </head>
 <body>
-    <div id="player_id"></div>
-    <img id="error-image" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEirTyb8TT-LEJ4QxNLpjagX3BkyiVxoCBr_K2d5miwRRRMZkCK15sdxEzCC6mxIAuoOGbOxBrAWE14Q2mvzNiAfr7xAHTIiVO2LNvUDt_GuasNW16KYWdDD0mey2s9bBcRhzfgttovxNE3aos4fLnzac7Hku6wehNcCtyMtjejutz7Sg1PU_v_BpB4A/s1600/image.png" alt="Stream off">
 
-    <script src="https://cdn.jsdelivr.net/npm/hls.js@latest/dist/hls.min.js"></script>
-    <script src="https://cdn.jsdelivr.net/npm/ovenplayer/dist/ovenplayer.js"></script>
+    <!-- Contenedor del reproductor -->
+    <div width="100%" height="100%" name="myiFrame" scrolling="no" style="border: none;" loading="lazy" allowfullscreen id="my-player"></div>
+
     <script>
-        const player = OvenPlayer.create('player_id', {
-            autoStart: true,
-            mute: false,
-          controls: true,
-            //waterMark: {
-              //  text: 'uvvul', // Texto de la marca de agua
-                //font: {
-                  //  'font-size': '15px',
-                    //'color': 'rgba(255,255,255,0.3)',
-                    //'font-weight': 'bold'
-                //},
-               // position: 'bottom-right' // Posición de la marca de agua
-            //},
-            sources: [
-        {
-            type: 'hls',
-            file: 'https://stream.mux.com/1iCAE01tcXU02LijEp5NGYJC01a01o9zP73eC11y2Vn5ylg.m3u8?token=eyJhbGciOiJSUzI1NiJ9.eyJraWQiOiJGMDFHc2doUkVIM0RjZEowMGdZaDRKUHg3cW9SM2pDVENGaGR6YUtrT2lNdGMiLCJzdWIiOiIxaUNBRTAxdGNYVTAyTGlqRXA1TkdZSkMwMWEwMW85elA3M2VDMTF5MlZuNXlsZyIsImF1ZCI6InYiLCJleHAiOjE3OTEwNzA2MTR9.Ifr-hGf_JseWyGp3YZn7vEjHfhhWM-HSGr1H5R5p9_pu0OO0vlYTaBl1rq12L3DQYlfvSydgnYXr7yMVwkjZdc_bGncYF1ZGLrlWmv3OfoEiwgEZapm-kkC5JP_VDsR_ssBs97sA58PoBTy4aqwDyg71ZmcjQ56Ih_UKUv-KYkTV5GyGUfW4JPtqBfCJJ6T_o_B8GbVA0Xz9eNwVvw4GalCqnBdnyNVRF5AcuRXKkQLc8Ge8o1gkc-OQYb8bazOmgQwAuyY5RTNI7pompSLcN_4ItXh-BI4izwXOZbHVsXqZ3V01ZLjhvl5IveOpCYpH5dXiomSwCexxIAUdyG--fg',
-        },
-        {
-            type: 'mp4',
-            file: 'https://substack-video.s3-accelerate.amazonaws.com/video_upload/post/209469939/df761d9d-6eae-4595-8375-41435832225e/original?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAUM3FPD6BRNQFLQTY%2F20260803%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260803T161832Z&X-Amz-Expires=900&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEDAaCXVzLWVhc3QtMSJIMEYCIQC0RJJmsAvOm0zvObQGneqOM2cbJcSAeYFoYs8Ib8LWiAIhALtpeBRvcDtExw4nkjbyK6B9%2BtNzgKZl%2FYHgfQYzOZ7aKoIECPn%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQBBoMMzAyNDcxMTI2OTE1Igw%2F%2BZC4%2F%2FjNPzskiiwq1gPn%2F%2F7%2BIeRg5y9%2BqOeGqRCNGDku8efmHstKmD0dwCfEQfRdX3pHDwFblWzRsBV6tXpA1B%2FPC85nd8kDuoQmn0w5Lyhiz0OIzPaxjGk2B0zgE2EJJuvjFhphgt8mcwUrve1tsv%2BN2wYfbyHLlX0R7291J373ar7EvpMlRVOsiYVob5KXlTED%2BbaooyQXre4mBcMD62YBQLx4XqhLDecIxyOvDHzrSDRX51FV4o3%2FD7fKOJa5Wq5e9DUyFyf7ens4vq%2FYls32SaenMUSmmB2%2FRHNmsdByiomvaY82%2BvsVLws6M67zKL%2BJurP%2Br7rBHWwRL42ZEWAF7hbKsRP6VaMRZ2Ar2DrT4X62KApBfiVDeK307ps7a2K4usL%2FjJWrsfIeWEKWkg83ZhgA9JnkH%2BurH5FE%2Fh%2B7Fx8cCCMUdrPhwCfUUfl2hqccDY%2FQtRJu5h91jrXOVSLDGX4nGxy8XvkfRsG43LEBPDShEg8dXZU0lONghnHmtdnm1McQ7pcG3Xf5magdcEA863ccYMwuxTFPEic4Tqhzdfes0bQ0u0C%2F983TZUHQb6I1lbeVlaUGIm4ZB1FYRq2vvIuIzqvDhbzd%2BczEIYDFZyyTJjgydszxopdn8tTgSonUszDz8MLTBjqkASX91TOhPrRYoc4qMHu1cqTccHSLf6zXdZRkgHmkcdDDdSWbCaMByWaQBE%2FJ50s26isgqts2gbpBkzJt4ttPuttawcqPGbc3PBn46S0p2G7CwBcdaqi39KCbQLpSdhLXQP0UgbKpbad1ElKsc1g8KibW1IM5IHPEX8AdXvg3OCeyX3ZMXb23cJYRZlQT64%2FHumc5ULqQw%2FPJN7c7bJ3xL0o5SF%2BB&X-Amz-Signature=2b3040560b4e39bb95d25e8205b151c1419942bcc01906b8ed1feb03e9929eca&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%3D%220.mp4%22&x-amz-checksum-mode=ENABLED&x-id=GetObject',
-        },
-    ],
-            hlsConfig: {
-                lowLatencyMode: true
-            }
-        });
 
-        player.on('error', () => {
-            document.getElementById('error-image').style.display = 'block';
-            document.getElementById('player_id').style.display = 'none';
-        });
-
-        player.on('play', () => {
-            document.getElementById('error-image').style.display = 'none';
-            document.getElementById('player_id').style.display = 'block';
+jwplayer('my-player').setup({
+file: "https://stream.mux.com/1iCAE01tcXU02LijEp5NGYJC01a01o9zP73eC11y2Vn5ylg.m3u8?token=eyJhbGciOiJSUzI1NiJ9.eyJraWQiOiJGMDFHc2doUkVIM0RjZEowMGdZaDRKUHg3cW9SM2pDVENGaGR6YUtrT2lNdGMiLCJzdWIiOiIxaUNBRTAxdGNYVTAyTGlqRXA1TkdZSkMwMWEwMW85elA3M2VDMTF5MlZuNXlsZyIsImF1ZCI6InYiLCJleHAiOjE3OTEwNzA2MTR9.Ifr-hGf_JseWyGp3YZn7vEjHfhhWM-HSGr1H5R5p9_pu0OO0vlYTaBl1rq12L3DQYlfvSydgnYXr7yMVwkjZdc_bGncYF1ZGLrlWmv3OfoEiwgEZapm-kkC5JP_VDsR_ssBs97sA58PoBTy4aqwDyg71ZmcjQ56Ih_UKUv-KYkTV5GyGUfW4JPtqBfCJJ6T_o_B8GbVA0Xz9eNwVvw4GalCqnBdnyNVRF5AcuRXKkQLc8Ge8o1gkc-OQYb8bazOmgQwAuyY5RTNI7pompSLcN_4ItXh-BI4izwXOZbHVsXqZ3V01ZLjhvl5IveOpCYpH5dXiomSwCexxIAUdyG--fg",
+width: "100%",
+            aspectratio: "16:9",
         });
     </script>
 </body>
+</html>
