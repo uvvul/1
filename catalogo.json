@@ -2,6 +2,5478 @@
   "status": "ok",
   "items": [
     {
+      "id": "2221",
+      "slug": "all-the-things-i-leave-you",
+      "title": "All the Things I Leave You",
+      "description": "At a family-run restaurant in Ilocos, Jorge, a privileged young man, is forced to work alongside Kiko, a street-smart newcomer hired by Jorge's grandfather, Tino, a retired sakada. When Tino suddenly dies, the two discover a hidden cigar box filled with unsent letters and photographs that reveal a decades-old love story between Tino and his best friend, Bong - a bond shaped by migration, forgetting, and sacrifice. As Jorge and Kiko piece together this lost history, their own relationship begins to shift. Set across generations and rooted in Ilokano culture, the series is a quiet exploration of class, intimacy, and the legacies we inherit - and choose to carry forward.",
+      "poster": "https://image.tmdb.org/t/p/w1280/3qdFLhWHFuaOkagGb156qwmJIs7.jpg",
+      "thumbnail": "https://image.tmdb.org/t/p/w1280/3qdFLhWHFuaOkagGb156qwmJIs7.jpg",
+      "type": 2,
+      "country": 5,
+      "content_status": "completed",
+      "is_locked": false,
+      "views": 0,
+      "rating": 0,
+      "release_year": 2025,
+      "releaseDate": "2026-10-24T22:54:42",
+      "updatedDate": "2026-10-24T22:54:42",
+      "updated": "2026-10-24T22:54:42",
+      "episode": 2,
+      "latestEpisode": 2,
+      "totalEpisode": 2,
+      "episodeCount": 2,
+      "badge": "EP 2",
+      "api_url": "/api/frontend/content/2221",
+      "sub": 11,
+      "episodes": [
+        {
+          "id": "2221",
+          "number": 1,
+          "title": "Episode 1",
+          "is_locked": false,
+          "state": "available",
+          "isPlayable": true,
+          "isUpcoming": false,
+          "available_at": null,
+          "availableInSeconds": null,
+          "badge": "",
+          "duration_seconds": null,
+          "sub": 11,
+          "deliveryDeferred": true,
+          "video_url": "https://hlscdn.vip/media/IQFkCbLmg1.mp4",
+          "tracks": [
+            {
+              "file": "https://sub.cdnauto.xyz/ph/All%20the%20Things%20I%20Leave%20You/1.tl.vtt",
+              "kind": "subtitles",
+              "label": "Filipino",
+              "srclang": "tl",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/ph/All%20the%20Things%20I%20Leave%20You/1.km.vtt",
+              "kind": "subtitles",
+              "label": "Khmer",
+              "srclang": "km",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/ph/All%20the%20Things%20I%20Leave%20You/1.en.vtt",
+              "kind": "subtitles",
+              "label": "English",
+              "srclang": "en",
+              "default": true,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/ph/All%20the%20Things%20I%20Leave%20You/1.id.vtt",
+              "kind": "subtitles",
+              "label": "Indonesian",
+              "srclang": "id",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/ph/All%20the%20Things%20I%20Leave%20You/1.ms.vtt",
+              "kind": "subtitles",
+              "label": "Malay",
+              "srclang": "ms",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/ph/All%20the%20Things%20I%20Leave%20You/1.pt.vtt",
+              "kind": "subtitles",
+              "label": "Portuguese",
+              "srclang": "pt",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/ph/All%20the%20Things%20I%20Leave%20You/1.ar.vtt",
+              "kind": "subtitles",
+              "label": "Arabic",
+              "srclang": "ar",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/ph/All%20the%20Things%20I%20Leave%20You/1.hi.vtt",
+              "kind": "subtitles",
+              "label": "Hindi",
+              "srclang": "hi",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/ph/All%20the%20Things%20I%20Leave%20You/1.de.vtt",
+              "kind": "subtitles",
+              "label": "German",
+              "srclang": "de",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/ph/All%20the%20Things%20I%20Leave%20You/1.fr.vtt",
+              "kind": "subtitles",
+              "label": "French",
+              "srclang": "fr",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/ph/All%20the%20Things%20I%20Leave%20You/1.es.vtt",
+              "kind": "subtitles",
+              "label": "Spanish",
+              "srclang": "es",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            }
+          ],
+          "main_sub_url": "https://sub.cdnauto.xyz/ph/All%20the%20Things%20I%20Leave%20You/1.en.vtt"
+        },
+        {
+          "id": "33961",
+          "number": 2,
+          "title": "Episode 2",
+          "is_locked": false,
+          "state": "available",
+          "isPlayable": true,
+          "isUpcoming": false,
+          "available_at": null,
+          "availableInSeconds": null,
+          "badge": "",
+          "duration_seconds": null,
+          "sub": 11,
+          "deliveryDeferred": true,
+          "video_url": "https://hlscdn.vip/media/N0fyxrlS7F.mp4",
+          "tracks": [
+            {
+              "file": "https://sub.cdnauto.xyz/ph/All%20the%20Things%20I%20Leave%20You/2.tl.vtt",
+              "kind": "subtitles",
+              "label": "Filipino",
+              "srclang": "tl",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/ph/All%20the%20Things%20I%20Leave%20You/2.km.vtt",
+              "kind": "subtitles",
+              "label": "Khmer",
+              "srclang": "km",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/ph/All%20the%20Things%20I%20Leave%20You/2.en.vtt",
+              "kind": "subtitles",
+              "label": "English",
+              "srclang": "en",
+              "default": true,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/ph/All%20the%20Things%20I%20Leave%20You/2.id.vtt",
+              "kind": "subtitles",
+              "label": "Indonesian",
+              "srclang": "id",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/ph/All%20the%20Things%20I%20Leave%20You/2.ms.vtt",
+              "kind": "subtitles",
+              "label": "Malay",
+              "srclang": "ms",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/ph/All%20the%20Things%20I%20Leave%20You/2.pt.vtt",
+              "kind": "subtitles",
+              "label": "Portuguese",
+              "srclang": "pt",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/ph/All%20the%20Things%20I%20Leave%20You/2.ar.vtt",
+              "kind": "subtitles",
+              "label": "Arabic",
+              "srclang": "ar",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/ph/All%20the%20Things%20I%20Leave%20You/2.hi.vtt",
+              "kind": "subtitles",
+              "label": "Hindi",
+              "srclang": "hi",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/ph/All%20the%20Things%20I%20Leave%20You/2.de.vtt",
+              "kind": "subtitles",
+              "label": "German",
+              "srclang": "de",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/ph/All%20the%20Things%20I%20Leave%20You/2.fr.vtt",
+              "kind": "subtitles",
+              "label": "French",
+              "srclang": "fr",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/ph/All%20the%20Things%20I%20Leave%20You/2.es.vtt",
+              "kind": "subtitles",
+              "label": "Spanish",
+              "srclang": "es",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            }
+          ],
+          "main_sub_url": "https://sub.cdnauto.xyz/ph/All%20the%20Things%20I%20Leave%20You/2.en.vtt"
+        }
+      ],
+      "status": "ok"
+    },
+    {
+      "id": "2220",
+      "slug": "final-table",
+      "title": "Final Table",
+      "description": "The Table: K-Chef 2026 brings together Korea's top chefs to compete for the title of the country's best chef. Mysterious world-renowned chef Chris K., also known as Kang Han, Song-yi, who is fighting to save her restaurant, perfectionist star chef Woo-jin, and chefs with stories of their own face off in a fierce culinary battle. More than a competition, they find comfort in food and one another.",
+      "poster": "https://image.tmdb.org/t/p/w1280/gq3FEuYsUl1r4rQYDCaQvzw1bOd.jpg",
+      "thumbnail": "https://image.tmdb.org/t/p/w1280/gq3FEuYsUl1r4rQYDCaQvzw1bOd.jpg",
+      "type": 1,
+      "country": 2,
+      "content_status": "ongoing",
+      "is_locked": false,
+      "views": 0,
+      "rating": 0,
+      "release_year": 2026,
+      "releaseDate": "2026-10-24T22:35:32",
+      "updatedDate": "2026-10-24T22:35:32",
+      "updated": "2026-10-24T22:35:32",
+      "episode": 1,
+      "latestEpisode": 1,
+      "totalEpisode": 1,
+      "episodeCount": 1,
+      "badge": "EP 1",
+      "api_url": "/api/frontend/content/2220",
+      "sub": 11,
+      "episodes": [
+        {
+          "id": "2220",
+          "number": 1,
+          "title": "Episode 1",
+          "is_locked": false,
+          "state": "available",
+          "isPlayable": true,
+          "isUpcoming": false,
+          "available_at": null,
+          "availableInSeconds": null,
+          "badge": "",
+          "duration_seconds": null,
+          "sub": 11,
+          "deliveryDeferred": true,
+          "video_url": "https://hlscdn.vip/media/8wU5Rf9yeG.mp4",
+          "tracks": [
+            {
+              "file": "https://sub.cdnauto.xyz/kr/Final%20Table%202026/1.tl.vtt",
+              "kind": "subtitles",
+              "label": "Filipino",
+              "srclang": "tl",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/kr/Final%20Table%202026/1.km.vtt",
+              "kind": "subtitles",
+              "label": "Khmer",
+              "srclang": "km",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/kr/Final%20Table%202026/1.en.vtt",
+              "kind": "subtitles",
+              "label": "English",
+              "srclang": "en",
+              "default": true,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/kr/Final%20Table%202026/1.id.vtt",
+              "kind": "subtitles",
+              "label": "Indonesian",
+              "srclang": "id",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/kr/Final%20Table%202026/1.ms.vtt",
+              "kind": "subtitles",
+              "label": "Malay",
+              "srclang": "ms",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/kr/Final%20Table%202026/1.pt.vtt",
+              "kind": "subtitles",
+              "label": "Portuguese",
+              "srclang": "pt",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/kr/Final%20Table%202026/1.ar.vtt",
+              "kind": "subtitles",
+              "label": "Arabic",
+              "srclang": "ar",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/kr/Final%20Table%202026/1.hi.vtt",
+              "kind": "subtitles",
+              "label": "Hindi",
+              "srclang": "hi",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/kr/Final%20Table%202026/1.de.vtt",
+              "kind": "subtitles",
+              "label": "German",
+              "srclang": "de",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/kr/Final%20Table%202026/1.fr.vtt",
+              "kind": "subtitles",
+              "label": "French",
+              "srclang": "fr",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/kr/Final%20Table%202026/1.es.vtt",
+              "kind": "subtitles",
+              "label": "Spanish",
+              "srclang": "es",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            }
+          ],
+          "main_sub_url": "https://sub.cdnauto.xyz/kr/Final%20Table%202026/1.en.vtt"
+        }
+      ],
+      "status": "ok"
+    },
+    {
+      "id": "2219",
+      "slug": "small-town-remedy",
+      "title": "Small Town Remedy",
+      "description": "After losing his job at a top-tier hospital due to an unexpected incident, Liu Zhengliang returns to his hometown and begins working in the emergency department of a local community hospital. While healing patients one after another, he finds himself continually healed by their resilience and humanity, creating a mutual journey of recovery and growth between caregiver and those in need.",
+      "poster": "https://wsrv.nl/?url=pic8.iqiyipic.com/image/20261021/1e/11/a_101643922_m_601_en_720_405.jpg",
+      "thumbnail": "https://wsrv.nl/?url=pic8.iqiyipic.com/image/20261021/1e/11/a_101643922_m_601_en_720_405.jpg",
+      "type": 1,
+      "country": 1,
+      "content_status": "ongoing",
+      "is_locked": false,
+      "views": 0,
+      "rating": 0,
+      "release_year": 2026,
+      "releaseDate": "2026-10-23T23:06:09",
+      "updatedDate": "2026-10-23T23:06:09",
+      "updated": "2026-10-23T23:06:09",
+      "episode": 8,
+      "latestEpisode": 8,
+      "totalEpisode": 8,
+      "episodeCount": 8,
+      "badge": "EP 8",
+      "api_url": "/api/frontend/content/2219",
+      "sub": 11,
+      "episodes": [
+        {
+          "id": "2219",
+          "number": 1,
+          "title": "Episode 1",
+          "is_locked": false,
+          "state": "available",
+          "isPlayable": true,
+          "isUpcoming": false,
+          "available_at": null,
+          "availableInSeconds": null,
+          "badge": "",
+          "duration_seconds": null,
+          "sub": 11,
+          "deliveryDeferred": true,
+          "video_url": "https://hlscdn.vip/media/5ezFp60zJD.mp4",
+          "tracks": [
+            {
+              "file": "https://sub.cdnauto.xyz/cn/Small%20Town%20Remedy/1.tl.vtt",
+              "kind": "subtitles",
+              "label": "Filipino",
+              "srclang": "tl",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/cn/Small%20Town%20Remedy/1.km.vtt",
+              "kind": "subtitles",
+              "label": "Khmer",
+              "srclang": "km",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/cn/Small%20Town%20Remedy/1.en.vtt",
+              "kind": "subtitles",
+              "label": "English",
+              "srclang": "en",
+              "default": true,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/cn/Small%20Town%20Remedy/1.id.vtt",
+              "kind": "subtitles",
+              "label": "Indonesian",
+              "srclang": "id",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/cn/Small%20Town%20Remedy/1.ms.vtt",
+              "kind": "subtitles",
+              "label": "Malay",
+              "srclang": "ms",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/cn/Small%20Town%20Remedy/1.pt.vtt",
+              "kind": "subtitles",
+              "label": "Portuguese",
+              "srclang": "pt",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/cn/Small%20Town%20Remedy/1.ar.vtt",
+              "kind": "subtitles",
+              "label": "Arabic",
+              "srclang": "ar",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/cn/Small%20Town%20Remedy/1.hi.vtt",
+              "kind": "subtitles",
+              "label": "Hindi",
+              "srclang": "hi",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/cn/Small%20Town%20Remedy/1.de.vtt",
+              "kind": "subtitles",
+              "label": "German",
+              "srclang": "de",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/cn/Small%20Town%20Remedy/1.fr.vtt",
+              "kind": "subtitles",
+              "label": "French",
+              "srclang": "fr",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/cn/Small%20Town%20Remedy/1.es.vtt",
+              "kind": "subtitles",
+              "label": "Spanish",
+              "srclang": "es",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            }
+          ],
+          "main_sub_url": "https://sub.cdnauto.xyz/cn/Small%20Town%20Remedy/1.en.vtt"
+        },
+        {
+          "id": "33924",
+          "number": 2,
+          "title": "Episode 2",
+          "is_locked": false,
+          "state": "available",
+          "isPlayable": true,
+          "isUpcoming": false,
+          "available_at": null,
+          "availableInSeconds": null,
+          "badge": "",
+          "duration_seconds": null,
+          "sub": 11,
+          "deliveryDeferred": true,
+          "video_url": "https://hlscdn.vip/media/L5eWHluaxG.mp4",
+          "tracks": [
+            {
+              "file": "https://sub.cdnauto.xyz/cn/Small%20Town%20Remedy/2.tl.vtt",
+              "kind": "subtitles",
+              "label": "Filipino",
+              "srclang": "tl",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/cn/Small%20Town%20Remedy/2.km.vtt",
+              "kind": "subtitles",
+              "label": "Khmer",
+              "srclang": "km",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/cn/Small%20Town%20Remedy/2.en.vtt",
+              "kind": "subtitles",
+              "label": "English",
+              "srclang": "en",
+              "default": true,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/cn/Small%20Town%20Remedy/2.id.vtt",
+              "kind": "subtitles",
+              "label": "Indonesian",
+              "srclang": "id",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/cn/Small%20Town%20Remedy/2.ms.vtt",
+              "kind": "subtitles",
+              "label": "Malay",
+              "srclang": "ms",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/cn/Small%20Town%20Remedy/2.pt.vtt",
+              "kind": "subtitles",
+              "label": "Portuguese",
+              "srclang": "pt",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/cn/Small%20Town%20Remedy/2.ar.vtt",
+              "kind": "subtitles",
+              "label": "Arabic",
+              "srclang": "ar",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/cn/Small%20Town%20Remedy/2.hi.vtt",
+              "kind": "subtitles",
+              "label": "Hindi",
+              "srclang": "hi",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/cn/Small%20Town%20Remedy/2.de.vtt",
+              "kind": "subtitles",
+              "label": "German",
+              "srclang": "de",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/cn/Small%20Town%20Remedy/2.fr.vtt",
+              "kind": "subtitles",
+              "label": "French",
+              "srclang": "fr",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/cn/Small%20Town%20Remedy/2.es.vtt",
+              "kind": "subtitles",
+              "label": "Spanish",
+              "srclang": "es",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            }
+          ],
+          "main_sub_url": "https://sub.cdnauto.xyz/cn/Small%20Town%20Remedy/2.en.vtt"
+        },
+        {
+          "id": "33925",
+          "number": 3,
+          "title": "Episode 3",
+          "is_locked": false,
+          "state": "available",
+          "isPlayable": true,
+          "isUpcoming": false,
+          "available_at": null,
+          "availableInSeconds": null,
+          "badge": "",
+          "duration_seconds": null,
+          "sub": 11,
+          "deliveryDeferred": true,
+          "video_url": "https://hlscdn.vip/media/h8KF6t7fV4.mp4",
+          "tracks": [
+            {
+              "file": "https://sub.cdnauto.xyz/cn/Small%20Town%20Remedy/3.tl.vtt",
+              "kind": "subtitles",
+              "label": "Filipino",
+              "srclang": "tl",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/cn/Small%20Town%20Remedy/3.km.vtt",
+              "kind": "subtitles",
+              "label": "Khmer",
+              "srclang": "km",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/cn/Small%20Town%20Remedy/3.en.vtt",
+              "kind": "subtitles",
+              "label": "English",
+              "srclang": "en",
+              "default": true,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/cn/Small%20Town%20Remedy/3.id.vtt",
+              "kind": "subtitles",
+              "label": "Indonesian",
+              "srclang": "id",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/cn/Small%20Town%20Remedy/3.ms.vtt",
+              "kind": "subtitles",
+              "label": "Malay",
+              "srclang": "ms",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/cn/Small%20Town%20Remedy/3.pt.vtt",
+              "kind": "subtitles",
+              "label": "Portuguese",
+              "srclang": "pt",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/cn/Small%20Town%20Remedy/3.ar.vtt",
+              "kind": "subtitles",
+              "label": "Arabic",
+              "srclang": "ar",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/cn/Small%20Town%20Remedy/3.hi.vtt",
+              "kind": "subtitles",
+              "label": "Hindi",
+              "srclang": "hi",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/cn/Small%20Town%20Remedy/3.de.vtt",
+              "kind": "subtitles",
+              "label": "German",
+              "srclang": "de",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/cn/Small%20Town%20Remedy/3.fr.vtt",
+              "kind": "subtitles",
+              "label": "French",
+              "srclang": "fr",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/cn/Small%20Town%20Remedy/3.es.vtt",
+              "kind": "subtitles",
+              "label": "Spanish",
+              "srclang": "es",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            }
+          ],
+          "main_sub_url": "https://sub.cdnauto.xyz/cn/Small%20Town%20Remedy/3.en.vtt"
+        },
+        {
+          "id": "33926",
+          "number": 4,
+          "title": "Episode 4",
+          "is_locked": false,
+          "state": "available",
+          "isPlayable": true,
+          "isUpcoming": false,
+          "available_at": null,
+          "availableInSeconds": null,
+          "badge": "",
+          "duration_seconds": null,
+          "sub": 11,
+          "deliveryDeferred": true,
+          "video_url": "https://hlscdn.vip/media/TeFKwfBvjZ.mp4",
+          "tracks": [
+            {
+              "file": "https://sub.cdnauto.xyz/cn/Small%20Town%20Remedy/4.tl.vtt",
+              "kind": "subtitles",
+              "label": "Filipino",
+              "srclang": "tl",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/cn/Small%20Town%20Remedy/4.km.vtt",
+              "kind": "subtitles",
+              "label": "Khmer",
+              "srclang": "km",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/cn/Small%20Town%20Remedy/4.en.vtt",
+              "kind": "subtitles",
+              "label": "English",
+              "srclang": "en",
+              "default": true,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/cn/Small%20Town%20Remedy/4.id.vtt",
+              "kind": "subtitles",
+              "label": "Indonesian",
+              "srclang": "id",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/cn/Small%20Town%20Remedy/4.ms.vtt",
+              "kind": "subtitles",
+              "label": "Malay",
+              "srclang": "ms",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/cn/Small%20Town%20Remedy/4.pt.vtt",
+              "kind": "subtitles",
+              "label": "Portuguese",
+              "srclang": "pt",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/cn/Small%20Town%20Remedy/4.ar.vtt",
+              "kind": "subtitles",
+              "label": "Arabic",
+              "srclang": "ar",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/cn/Small%20Town%20Remedy/4.hi.vtt",
+              "kind": "subtitles",
+              "label": "Hindi",
+              "srclang": "hi",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/cn/Small%20Town%20Remedy/4.de.vtt",
+              "kind": "subtitles",
+              "label": "German",
+              "srclang": "de",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/cn/Small%20Town%20Remedy/4.fr.vtt",
+              "kind": "subtitles",
+              "label": "French",
+              "srclang": "fr",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/cn/Small%20Town%20Remedy/4.es.vtt",
+              "kind": "subtitles",
+              "label": "Spanish",
+              "srclang": "es",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            }
+          ],
+          "main_sub_url": "https://sub.cdnauto.xyz/cn/Small%20Town%20Remedy/4.en.vtt"
+        },
+        {
+          "id": "33927",
+          "number": 5,
+          "title": "Episode 5",
+          "is_locked": false,
+          "state": "available",
+          "isPlayable": true,
+          "isUpcoming": false,
+          "available_at": null,
+          "availableInSeconds": null,
+          "badge": "",
+          "duration_seconds": null,
+          "sub": 11,
+          "deliveryDeferred": true,
+          "video_url": "https://hlscdn.vip/media/Aq2BcaUusX.mp4",
+          "tracks": [
+            {
+              "file": "https://sub.cdnauto.xyz/cn/Small%20Town%20Remedy/5.tl.vtt",
+              "kind": "subtitles",
+              "label": "Filipino",
+              "srclang": "tl",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/cn/Small%20Town%20Remedy/5.km.vtt",
+              "kind": "subtitles",
+              "label": "Khmer",
+              "srclang": "km",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/cn/Small%20Town%20Remedy/5.en.vtt",
+              "kind": "subtitles",
+              "label": "English",
+              "srclang": "en",
+              "default": true,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/cn/Small%20Town%20Remedy/5.id.vtt",
+              "kind": "subtitles",
+              "label": "Indonesian",
+              "srclang": "id",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/cn/Small%20Town%20Remedy/5.ms.vtt",
+              "kind": "subtitles",
+              "label": "Malay",
+              "srclang": "ms",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/cn/Small%20Town%20Remedy/5.pt.vtt",
+              "kind": "subtitles",
+              "label": "Portuguese",
+              "srclang": "pt",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/cn/Small%20Town%20Remedy/5.ar.vtt",
+              "kind": "subtitles",
+              "label": "Arabic",
+              "srclang": "ar",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/cn/Small%20Town%20Remedy/5.hi.vtt",
+              "kind": "subtitles",
+              "label": "Hindi",
+              "srclang": "hi",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/cn/Small%20Town%20Remedy/5.de.vtt",
+              "kind": "subtitles",
+              "label": "German",
+              "srclang": "de",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/cn/Small%20Town%20Remedy/5.fr.vtt",
+              "kind": "subtitles",
+              "label": "French",
+              "srclang": "fr",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/cn/Small%20Town%20Remedy/5.es.vtt",
+              "kind": "subtitles",
+              "label": "Spanish",
+              "srclang": "es",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            }
+          ],
+          "main_sub_url": "https://sub.cdnauto.xyz/cn/Small%20Town%20Remedy/5.en.vtt"
+        },
+        {
+          "id": "33928",
+          "number": 6,
+          "title": "Episode 6",
+          "is_locked": false,
+          "state": "available",
+          "isPlayable": true,
+          "isUpcoming": false,
+          "available_at": null,
+          "availableInSeconds": null,
+          "badge": "",
+          "duration_seconds": null,
+          "sub": 11,
+          "deliveryDeferred": true,
+          "video_url": "https://hlscdn.vip/media/wAsRlq0I7R.mp4",
+          "tracks": [
+            {
+              "file": "https://sub.cdnauto.xyz/cn/Small%20Town%20Remedy/6.tl.vtt",
+              "kind": "subtitles",
+              "label": "Filipino",
+              "srclang": "tl",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/cn/Small%20Town%20Remedy/6.km.vtt",
+              "kind": "subtitles",
+              "label": "Khmer",
+              "srclang": "km",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/cn/Small%20Town%20Remedy/6.en.vtt",
+              "kind": "subtitles",
+              "label": "English",
+              "srclang": "en",
+              "default": true,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/cn/Small%20Town%20Remedy/6.id.vtt",
+              "kind": "subtitles",
+              "label": "Indonesian",
+              "srclang": "id",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/cn/Small%20Town%20Remedy/6.ms.vtt",
+              "kind": "subtitles",
+              "label": "Malay",
+              "srclang": "ms",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/cn/Small%20Town%20Remedy/6.pt.vtt",
+              "kind": "subtitles",
+              "label": "Portuguese",
+              "srclang": "pt",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/cn/Small%20Town%20Remedy/6.ar.vtt",
+              "kind": "subtitles",
+              "label": "Arabic",
+              "srclang": "ar",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/cn/Small%20Town%20Remedy/6.hi.vtt",
+              "kind": "subtitles",
+              "label": "Hindi",
+              "srclang": "hi",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/cn/Small%20Town%20Remedy/6.de.vtt",
+              "kind": "subtitles",
+              "label": "German",
+              "srclang": "de",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/cn/Small%20Town%20Remedy/6.fr.vtt",
+              "kind": "subtitles",
+              "label": "French",
+              "srclang": "fr",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/cn/Small%20Town%20Remedy/6.es.vtt",
+              "kind": "subtitles",
+              "label": "Spanish",
+              "srclang": "es",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            }
+          ],
+          "main_sub_url": "https://sub.cdnauto.xyz/cn/Small%20Town%20Remedy/6.en.vtt"
+        },
+        {
+          "id": "33929",
+          "number": 7,
+          "title": "Episode 7",
+          "is_locked": false,
+          "state": "available",
+          "isPlayable": true,
+          "isUpcoming": false,
+          "available_at": null,
+          "availableInSeconds": null,
+          "badge": "",
+          "duration_seconds": null,
+          "sub": 11,
+          "deliveryDeferred": true,
+          "video_url": "https://hlscdn.vip/media/ECZUhDgI0P.mp4",
+          "tracks": [
+            {
+              "file": "https://sub.cdnauto.xyz/cn/Small%20Town%20Remedy/7.tl.vtt",
+              "kind": "subtitles",
+              "label": "Filipino",
+              "srclang": "tl",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/cn/Small%20Town%20Remedy/7.km.vtt",
+              "kind": "subtitles",
+              "label": "Khmer",
+              "srclang": "km",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/cn/Small%20Town%20Remedy/7.en.vtt",
+              "kind": "subtitles",
+              "label": "English",
+              "srclang": "en",
+              "default": true,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/cn/Small%20Town%20Remedy/7.id.vtt",
+              "kind": "subtitles",
+              "label": "Indonesian",
+              "srclang": "id",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/cn/Small%20Town%20Remedy/7.ms.vtt",
+              "kind": "subtitles",
+              "label": "Malay",
+              "srclang": "ms",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/cn/Small%20Town%20Remedy/7.pt.vtt",
+              "kind": "subtitles",
+              "label": "Portuguese",
+              "srclang": "pt",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/cn/Small%20Town%20Remedy/7.ar.vtt",
+              "kind": "subtitles",
+              "label": "Arabic",
+              "srclang": "ar",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/cn/Small%20Town%20Remedy/7.hi.vtt",
+              "kind": "subtitles",
+              "label": "Hindi",
+              "srclang": "hi",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/cn/Small%20Town%20Remedy/7.de.vtt",
+              "kind": "subtitles",
+              "label": "German",
+              "srclang": "de",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/cn/Small%20Town%20Remedy/7.fr.vtt",
+              "kind": "subtitles",
+              "label": "French",
+              "srclang": "fr",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/cn/Small%20Town%20Remedy/7.es.vtt",
+              "kind": "subtitles",
+              "label": "Spanish",
+              "srclang": "es",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            }
+          ],
+          "main_sub_url": "https://sub.cdnauto.xyz/cn/Small%20Town%20Remedy/7.en.vtt"
+        },
+        {
+          "id": "33930",
+          "number": 8,
+          "title": "Episode 8",
+          "is_locked": false,
+          "state": "available",
+          "isPlayable": true,
+          "isUpcoming": false,
+          "available_at": null,
+          "availableInSeconds": null,
+          "badge": "",
+          "duration_seconds": null,
+          "sub": 11,
+          "deliveryDeferred": true,
+          "video_url": "https://hlscdn.vip/media/lmkJxtkGLL.mp4",
+          "tracks": [
+            {
+              "file": "https://sub.cdnauto.xyz/cn/Small%20Town%20Remedy/8.tl.vtt",
+              "kind": "subtitles",
+              "label": "Filipino",
+              "srclang": "tl",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/cn/Small%20Town%20Remedy/8.km.vtt",
+              "kind": "subtitles",
+              "label": "Khmer",
+              "srclang": "km",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/cn/Small%20Town%20Remedy/8.en.vtt",
+              "kind": "subtitles",
+              "label": "English",
+              "srclang": "en",
+              "default": true,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/cn/Small%20Town%20Remedy/8.id.vtt",
+              "kind": "subtitles",
+              "label": "Indonesian",
+              "srclang": "id",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/cn/Small%20Town%20Remedy/8.ms.vtt",
+              "kind": "subtitles",
+              "label": "Malay",
+              "srclang": "ms",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/cn/Small%20Town%20Remedy/8.pt.vtt",
+              "kind": "subtitles",
+              "label": "Portuguese",
+              "srclang": "pt",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/cn/Small%20Town%20Remedy/8.ar.vtt",
+              "kind": "subtitles",
+              "label": "Arabic",
+              "srclang": "ar",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/cn/Small%20Town%20Remedy/8.hi.vtt",
+              "kind": "subtitles",
+              "label": "Hindi",
+              "srclang": "hi",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/cn/Small%20Town%20Remedy/8.de.vtt",
+              "kind": "subtitles",
+              "label": "German",
+              "srclang": "de",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/cn/Small%20Town%20Remedy/8.fr.vtt",
+              "kind": "subtitles",
+              "label": "French",
+              "srclang": "fr",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/cn/Small%20Town%20Remedy/8.es.vtt",
+              "kind": "subtitles",
+              "label": "Spanish",
+              "srclang": "es",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            }
+          ],
+          "main_sub_url": "https://sub.cdnauto.xyz/cn/Small%20Town%20Remedy/8.en.vtt"
+        }
+      ],
+      "status": "ok"
+    },
+    {
+      "id": "2218",
+      "slug": "lovestruck-in-the-city-2",
+      "title": "Lovestruck in the City",
+      "description": "Heart stolen by a free-spirited woman after a beachside romance, a passionate architect sets out to reunite with her on the streets of Seoul.",
+      "poster": "https://serveproxy.com/?url=https://fragrancecdn1.site/cf2c89ed-0a3f-4c81-bcbd-e579a3cfcfa4.jpg",
+      "thumbnail": "https://serveproxy.com/?url=https://fragrancecdn1.site/cf2c89ed-0a3f-4c81-bcbd-e579a3cfcfa4.jpg",
+      "type": 1,
+      "country": 2,
+      "content_status": "completed",
+      "is_locked": false,
+      "views": 0,
+      "rating": 0,
+      "release_year": 2020,
+      "releaseDate": "2026-10-23T16:09:16",
+      "updatedDate": "2026-10-23T16:09:16",
+      "updated": "2026-10-23T16:09:16",
+      "episode": 17,
+      "latestEpisode": 17,
+      "totalEpisode": 17,
+      "episodeCount": 17,
+      "badge": "EP 17",
+      "api_url": "/api/frontend/content/2218",
+      "sub": 11,
+      "episodes": [
+        {
+          "id": "2218",
+          "number": 1,
+          "title": "Episode 1",
+          "is_locked": false,
+          "state": "available",
+          "isPlayable": true,
+          "isUpcoming": false,
+          "available_at": null,
+          "availableInSeconds": null,
+          "badge": "",
+          "duration_seconds": null,
+          "sub": 11,
+          "deliveryDeferred": true,
+          "video_url": "https://hlscdn.vip/media/V4ba3jpW9R.mp4",
+          "tracks": [
+            {
+              "file": "https://res.cloudinary.com/sub2k10/raw/upload/v1745790277/Lovestruck%20in%20the%20City/1.tl.vtt",
+              "kind": "subtitles",
+              "label": "Filipino",
+              "srclang": "tl",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://res.cloudinary.com/sub2k10/raw/upload/v1745790277/Lovestruck%20in%20the%20City/1.km.vtt",
+              "kind": "subtitles",
+              "label": "Khmer",
+              "srclang": "km",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://res.cloudinary.com/sub2k10/raw/upload/v1745790277/Lovestruck%20in%20the%20City/1.en.vtt",
+              "kind": "subtitles",
+              "label": "English",
+              "srclang": "en",
+              "default": true,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://res.cloudinary.com/sub2k10/raw/upload/v1745790277/Lovestruck%20in%20the%20City/1.id.vtt",
+              "kind": "subtitles",
+              "label": "Indonesian",
+              "srclang": "id",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://res.cloudinary.com/sub2k10/raw/upload/v1745790277/Lovestruck%20in%20the%20City/1.ms.vtt",
+              "kind": "subtitles",
+              "label": "Malay",
+              "srclang": "ms",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://res.cloudinary.com/sub2k10/raw/upload/v1745790277/Lovestruck%20in%20the%20City/1.pt.vtt",
+              "kind": "subtitles",
+              "label": "Portuguese",
+              "srclang": "pt",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://res.cloudinary.com/sub2k10/raw/upload/v1745790277/Lovestruck%20in%20the%20City/1.ar.vtt",
+              "kind": "subtitles",
+              "label": "Arabic",
+              "srclang": "ar",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://res.cloudinary.com/sub2k10/raw/upload/v1745790277/Lovestruck%20in%20the%20City/1.hi.vtt",
+              "kind": "subtitles",
+              "label": "Hindi",
+              "srclang": "hi",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://res.cloudinary.com/sub2k10/raw/upload/v1745790277/Lovestruck%20in%20the%20City/1.de.vtt",
+              "kind": "subtitles",
+              "label": "German",
+              "srclang": "de",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://res.cloudinary.com/sub2k10/raw/upload/v1745790277/Lovestruck%20in%20the%20City/1.fr.vtt",
+              "kind": "subtitles",
+              "label": "French",
+              "srclang": "fr",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://res.cloudinary.com/sub2k10/raw/upload/v1745790277/Lovestruck%20in%20the%20City/1.es.vtt",
+              "kind": "subtitles",
+              "label": "Spanish",
+              "srclang": "es",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            }
+          ],
+          "main_sub_url": "https://res.cloudinary.com/sub2k10/raw/upload/v1745790277/Lovestruck%20in%20the%20City/1.en.vtt"
+        },
+        {
+          "id": "33901",
+          "number": 2,
+          "title": "Episode 2",
+          "is_locked": false,
+          "state": "available",
+          "isPlayable": true,
+          "isUpcoming": false,
+          "available_at": null,
+          "availableInSeconds": null,
+          "badge": "",
+          "duration_seconds": null,
+          "sub": 11,
+          "deliveryDeferred": true,
+          "video_url": "https://hlscdn.vip/media/H5IUCUApwT.mp4",
+          "tracks": [
+            {
+              "file": "https://res.cloudinary.com/sub2k10/raw/upload/v1745790277/Lovestruck%20in%20the%20City/2.tl.vtt",
+              "kind": "subtitles",
+              "label": "Filipino",
+              "srclang": "tl",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://res.cloudinary.com/sub2k10/raw/upload/v1745790277/Lovestruck%20in%20the%20City/2.km.vtt",
+              "kind": "subtitles",
+              "label": "Khmer",
+              "srclang": "km",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://res.cloudinary.com/sub2k10/raw/upload/v1745790277/Lovestruck%20in%20the%20City/2.en.vtt",
+              "kind": "subtitles",
+              "label": "English",
+              "srclang": "en",
+              "default": true,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://res.cloudinary.com/sub2k10/raw/upload/v1745790277/Lovestruck%20in%20the%20City/2.id.vtt",
+              "kind": "subtitles",
+              "label": "Indonesian",
+              "srclang": "id",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://res.cloudinary.com/sub2k10/raw/upload/v1745790277/Lovestruck%20in%20the%20City/2.ms.vtt",
+              "kind": "subtitles",
+              "label": "Malay",
+              "srclang": "ms",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://res.cloudinary.com/sub2k10/raw/upload/v1745790277/Lovestruck%20in%20the%20City/2.pt.vtt",
+              "kind": "subtitles",
+              "label": "Portuguese",
+              "srclang": "pt",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://res.cloudinary.com/sub2k10/raw/upload/v1745790277/Lovestruck%20in%20the%20City/2.ar.vtt",
+              "kind": "subtitles",
+              "label": "Arabic",
+              "srclang": "ar",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://res.cloudinary.com/sub2k10/raw/upload/v1745790277/Lovestruck%20in%20the%20City/2.hi.vtt",
+              "kind": "subtitles",
+              "label": "Hindi",
+              "srclang": "hi",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://res.cloudinary.com/sub2k10/raw/upload/v1745790277/Lovestruck%20in%20the%20City/2.de.vtt",
+              "kind": "subtitles",
+              "label": "German",
+              "srclang": "de",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://res.cloudinary.com/sub2k10/raw/upload/v1745790277/Lovestruck%20in%20the%20City/2.fr.vtt",
+              "kind": "subtitles",
+              "label": "French",
+              "srclang": "fr",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://res.cloudinary.com/sub2k10/raw/upload/v1745790277/Lovestruck%20in%20the%20City/2.es.vtt",
+              "kind": "subtitles",
+              "label": "Spanish",
+              "srclang": "es",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            }
+          ],
+          "main_sub_url": "https://res.cloudinary.com/sub2k10/raw/upload/v1745790277/Lovestruck%20in%20the%20City/2.en.vtt"
+        },
+        {
+          "id": "33902",
+          "number": 3,
+          "title": "Episode 3",
+          "is_locked": false,
+          "state": "available",
+          "isPlayable": true,
+          "isUpcoming": false,
+          "available_at": null,
+          "availableInSeconds": null,
+          "badge": "",
+          "duration_seconds": null,
+          "sub": 11,
+          "deliveryDeferred": true,
+          "video_url": "https://hlscdn.vip/media/PmHDrD9PzY.mp4",
+          "tracks": [
+            {
+              "file": "https://res.cloudinary.com/sub2k10/raw/upload/v1745790277/Lovestruck%20in%20the%20City/3.tl.vtt",
+              "kind": "subtitles",
+              "label": "Filipino",
+              "srclang": "tl",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://res.cloudinary.com/sub2k10/raw/upload/v1745790277/Lovestruck%20in%20the%20City/3.km.vtt",
+              "kind": "subtitles",
+              "label": "Khmer",
+              "srclang": "km",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://res.cloudinary.com/sub2k10/raw/upload/v1745790277/Lovestruck%20in%20the%20City/3.en.vtt",
+              "kind": "subtitles",
+              "label": "English",
+              "srclang": "en",
+              "default": true,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://res.cloudinary.com/sub2k10/raw/upload/v1745790277/Lovestruck%20in%20the%20City/3.id.vtt",
+              "kind": "subtitles",
+              "label": "Indonesian",
+              "srclang": "id",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://res.cloudinary.com/sub2k10/raw/upload/v1745790277/Lovestruck%20in%20the%20City/3.ms.vtt",
+              "kind": "subtitles",
+              "label": "Malay",
+              "srclang": "ms",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://res.cloudinary.com/sub2k10/raw/upload/v1745790277/Lovestruck%20in%20the%20City/3.pt.vtt",
+              "kind": "subtitles",
+              "label": "Portuguese",
+              "srclang": "pt",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://res.cloudinary.com/sub2k10/raw/upload/v1745790277/Lovestruck%20in%20the%20City/3.ar.vtt",
+              "kind": "subtitles",
+              "label": "Arabic",
+              "srclang": "ar",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://res.cloudinary.com/sub2k10/raw/upload/v1745790277/Lovestruck%20in%20the%20City/3.hi.vtt",
+              "kind": "subtitles",
+              "label": "Hindi",
+              "srclang": "hi",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://res.cloudinary.com/sub2k10/raw/upload/v1745790277/Lovestruck%20in%20the%20City/3.de.vtt",
+              "kind": "subtitles",
+              "label": "German",
+              "srclang": "de",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://res.cloudinary.com/sub2k10/raw/upload/v1745790277/Lovestruck%20in%20the%20City/3.fr.vtt",
+              "kind": "subtitles",
+              "label": "French",
+              "srclang": "fr",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://res.cloudinary.com/sub2k10/raw/upload/v1745790277/Lovestruck%20in%20the%20City/3.es.vtt",
+              "kind": "subtitles",
+              "label": "Spanish",
+              "srclang": "es",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            }
+          ],
+          "main_sub_url": "https://res.cloudinary.com/sub2k10/raw/upload/v1745790277/Lovestruck%20in%20the%20City/3.en.vtt"
+        },
+        {
+          "id": "33903",
+          "number": 4,
+          "title": "Episode 4",
+          "is_locked": false,
+          "state": "available",
+          "isPlayable": true,
+          "isUpcoming": false,
+          "available_at": null,
+          "availableInSeconds": null,
+          "badge": "",
+          "duration_seconds": null,
+          "sub": 11,
+          "deliveryDeferred": true,
+          "video_url": "https://hlscdn.vip/media/6pVHRAyUzZ.mp4",
+          "tracks": [
+            {
+              "file": "https://res.cloudinary.com/sub2k10/raw/upload/v1745790277/Lovestruck%20in%20the%20City/4.tl.vtt",
+              "kind": "subtitles",
+              "label": "Filipino",
+              "srclang": "tl",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://res.cloudinary.com/sub2k10/raw/upload/v1745790277/Lovestruck%20in%20the%20City/4.km.vtt",
+              "kind": "subtitles",
+              "label": "Khmer",
+              "srclang": "km",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://res.cloudinary.com/sub2k10/raw/upload/v1745790277/Lovestruck%20in%20the%20City/4.en.vtt",
+              "kind": "subtitles",
+              "label": "English",
+              "srclang": "en",
+              "default": true,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://res.cloudinary.com/sub2k10/raw/upload/v1745790277/Lovestruck%20in%20the%20City/4.id.vtt",
+              "kind": "subtitles",
+              "label": "Indonesian",
+              "srclang": "id",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://res.cloudinary.com/sub2k10/raw/upload/v1745790277/Lovestruck%20in%20the%20City/4.ms.vtt",
+              "kind": "subtitles",
+              "label": "Malay",
+              "srclang": "ms",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://res.cloudinary.com/sub2k10/raw/upload/v1745790277/Lovestruck%20in%20the%20City/4.pt.vtt",
+              "kind": "subtitles",
+              "label": "Portuguese",
+              "srclang": "pt",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://res.cloudinary.com/sub2k10/raw/upload/v1745790277/Lovestruck%20in%20the%20City/4.ar.vtt",
+              "kind": "subtitles",
+              "label": "Arabic",
+              "srclang": "ar",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://res.cloudinary.com/sub2k10/raw/upload/v1745790277/Lovestruck%20in%20the%20City/4.hi.vtt",
+              "kind": "subtitles",
+              "label": "Hindi",
+              "srclang": "hi",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://res.cloudinary.com/sub2k10/raw/upload/v1745790277/Lovestruck%20in%20the%20City/4.de.vtt",
+              "kind": "subtitles",
+              "label": "German",
+              "srclang": "de",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://res.cloudinary.com/sub2k10/raw/upload/v1745790277/Lovestruck%20in%20the%20City/4.fr.vtt",
+              "kind": "subtitles",
+              "label": "French",
+              "srclang": "fr",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://res.cloudinary.com/sub2k10/raw/upload/v1745790277/Lovestruck%20in%20the%20City/4.es.vtt",
+              "kind": "subtitles",
+              "label": "Spanish",
+              "srclang": "es",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            }
+          ],
+          "main_sub_url": "https://res.cloudinary.com/sub2k10/raw/upload/v1745790277/Lovestruck%20in%20the%20City/4.en.vtt"
+        },
+        {
+          "id": "33904",
+          "number": 5,
+          "title": "Episode 5",
+          "is_locked": false,
+          "state": "available",
+          "isPlayable": true,
+          "isUpcoming": false,
+          "available_at": null,
+          "availableInSeconds": null,
+          "badge": "",
+          "duration_seconds": null,
+          "sub": 11,
+          "deliveryDeferred": true,
+          "video_url": "https://hlscdn.vip/media/yxndMmNZZW.mp4",
+          "tracks": [
+            {
+              "file": "https://res.cloudinary.com/sub2k10/raw/upload/v1745790277/Lovestruck%20in%20the%20City/5.tl.vtt",
+              "kind": "subtitles",
+              "label": "Filipino",
+              "srclang": "tl",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://res.cloudinary.com/sub2k10/raw/upload/v1745790277/Lovestruck%20in%20the%20City/5.km.vtt",
+              "kind": "subtitles",
+              "label": "Khmer",
+              "srclang": "km",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://res.cloudinary.com/sub2k10/raw/upload/v1745790277/Lovestruck%20in%20the%20City/5.en.vtt",
+              "kind": "subtitles",
+              "label": "English",
+              "srclang": "en",
+              "default": true,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://res.cloudinary.com/sub2k10/raw/upload/v1745790277/Lovestruck%20in%20the%20City/5.id.vtt",
+              "kind": "subtitles",
+              "label": "Indonesian",
+              "srclang": "id",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://res.cloudinary.com/sub2k10/raw/upload/v1745790277/Lovestruck%20in%20the%20City/5.ms.vtt",
+              "kind": "subtitles",
+              "label": "Malay",
+              "srclang": "ms",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://res.cloudinary.com/sub2k10/raw/upload/v1745790277/Lovestruck%20in%20the%20City/5.pt.vtt",
+              "kind": "subtitles",
+              "label": "Portuguese",
+              "srclang": "pt",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://res.cloudinary.com/sub2k10/raw/upload/v1745790277/Lovestruck%20in%20the%20City/5.ar.vtt",
+              "kind": "subtitles",
+              "label": "Arabic",
+              "srclang": "ar",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://res.cloudinary.com/sub2k10/raw/upload/v1745790277/Lovestruck%20in%20the%20City/5.hi.vtt",
+              "kind": "subtitles",
+              "label": "Hindi",
+              "srclang": "hi",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://res.cloudinary.com/sub2k10/raw/upload/v1745790277/Lovestruck%20in%20the%20City/5.de.vtt",
+              "kind": "subtitles",
+              "label": "German",
+              "srclang": "de",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://res.cloudinary.com/sub2k10/raw/upload/v1745790277/Lovestruck%20in%20the%20City/5.fr.vtt",
+              "kind": "subtitles",
+              "label": "French",
+              "srclang": "fr",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://res.cloudinary.com/sub2k10/raw/upload/v1745790277/Lovestruck%20in%20the%20City/5.es.vtt",
+              "kind": "subtitles",
+              "label": "Spanish",
+              "srclang": "es",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            }
+          ],
+          "main_sub_url": "https://res.cloudinary.com/sub2k10/raw/upload/v1745790277/Lovestruck%20in%20the%20City/5.en.vtt"
+        },
+        {
+          "id": "33905",
+          "number": 6,
+          "title": "Episode 6",
+          "is_locked": false,
+          "state": "available",
+          "isPlayable": true,
+          "isUpcoming": false,
+          "available_at": null,
+          "availableInSeconds": null,
+          "badge": "",
+          "duration_seconds": null,
+          "sub": 11,
+          "deliveryDeferred": true,
+          "video_url": "https://hlscdn.vip/media/2u7bWyuGh3.mp4",
+          "tracks": [
+            {
+              "file": "https://res.cloudinary.com/sub2k10/raw/upload/v1745790277/Lovestruck%20in%20the%20City/6.tl.vtt",
+              "kind": "subtitles",
+              "label": "Filipino",
+              "srclang": "tl",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://res.cloudinary.com/sub2k10/raw/upload/v1745790277/Lovestruck%20in%20the%20City/6.km.vtt",
+              "kind": "subtitles",
+              "label": "Khmer",
+              "srclang": "km",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://res.cloudinary.com/sub2k10/raw/upload/v1745790277/Lovestruck%20in%20the%20City/6.en.vtt",
+              "kind": "subtitles",
+              "label": "English",
+              "srclang": "en",
+              "default": true,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://res.cloudinary.com/sub2k10/raw/upload/v1745790277/Lovestruck%20in%20the%20City/6.id.vtt",
+              "kind": "subtitles",
+              "label": "Indonesian",
+              "srclang": "id",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://res.cloudinary.com/sub2k10/raw/upload/v1745790277/Lovestruck%20in%20the%20City/6.ms.vtt",
+              "kind": "subtitles",
+              "label": "Malay",
+              "srclang": "ms",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://res.cloudinary.com/sub2k10/raw/upload/v1745790277/Lovestruck%20in%20the%20City/6.pt.vtt",
+              "kind": "subtitles",
+              "label": "Portuguese",
+              "srclang": "pt",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://res.cloudinary.com/sub2k10/raw/upload/v1745790277/Lovestruck%20in%20the%20City/6.ar.vtt",
+              "kind": "subtitles",
+              "label": "Arabic",
+              "srclang": "ar",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://res.cloudinary.com/sub2k10/raw/upload/v1745790277/Lovestruck%20in%20the%20City/6.hi.vtt",
+              "kind": "subtitles",
+              "label": "Hindi",
+              "srclang": "hi",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://res.cloudinary.com/sub2k10/raw/upload/v1745790277/Lovestruck%20in%20the%20City/6.de.vtt",
+              "kind": "subtitles",
+              "label": "German",
+              "srclang": "de",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://res.cloudinary.com/sub2k10/raw/upload/v1745790277/Lovestruck%20in%20the%20City/6.fr.vtt",
+              "kind": "subtitles",
+              "label": "French",
+              "srclang": "fr",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://res.cloudinary.com/sub2k10/raw/upload/v1745790277/Lovestruck%20in%20the%20City/6.es.vtt",
+              "kind": "subtitles",
+              "label": "Spanish",
+              "srclang": "es",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            }
+          ],
+          "main_sub_url": "https://res.cloudinary.com/sub2k10/raw/upload/v1745790277/Lovestruck%20in%20the%20City/6.en.vtt"
+        },
+        {
+          "id": "33906",
+          "number": 7,
+          "title": "Episode 7",
+          "is_locked": false,
+          "state": "available",
+          "isPlayable": true,
+          "isUpcoming": false,
+          "available_at": null,
+          "availableInSeconds": null,
+          "badge": "",
+          "duration_seconds": null,
+          "sub": 11,
+          "deliveryDeferred": true,
+          "video_url": "https://hlscdn.vip/media/6KZMHeASs3.mp4",
+          "tracks": [
+            {
+              "file": "https://res.cloudinary.com/sub2k10/raw/upload/v1745790277/Lovestruck%20in%20the%20City/7.tl.vtt",
+              "kind": "subtitles",
+              "label": "Filipino",
+              "srclang": "tl",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://res.cloudinary.com/sub2k10/raw/upload/v1745790277/Lovestruck%20in%20the%20City/7.km.vtt",
+              "kind": "subtitles",
+              "label": "Khmer",
+              "srclang": "km",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://res.cloudinary.com/sub2k10/raw/upload/v1745790277/Lovestruck%20in%20the%20City/7.en.vtt",
+              "kind": "subtitles",
+              "label": "English",
+              "srclang": "en",
+              "default": true,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://res.cloudinary.com/sub2k10/raw/upload/v1745790277/Lovestruck%20in%20the%20City/7.id.vtt",
+              "kind": "subtitles",
+              "label": "Indonesian",
+              "srclang": "id",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://res.cloudinary.com/sub2k10/raw/upload/v1745790277/Lovestruck%20in%20the%20City/7.ms.vtt",
+              "kind": "subtitles",
+              "label": "Malay",
+              "srclang": "ms",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://res.cloudinary.com/sub2k10/raw/upload/v1745790277/Lovestruck%20in%20the%20City/7.pt.vtt",
+              "kind": "subtitles",
+              "label": "Portuguese",
+              "srclang": "pt",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://res.cloudinary.com/sub2k10/raw/upload/v1745790277/Lovestruck%20in%20the%20City/7.ar.vtt",
+              "kind": "subtitles",
+              "label": "Arabic",
+              "srclang": "ar",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://res.cloudinary.com/sub2k10/raw/upload/v1745790277/Lovestruck%20in%20the%20City/7.hi.vtt",
+              "kind": "subtitles",
+              "label": "Hindi",
+              "srclang": "hi",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://res.cloudinary.com/sub2k10/raw/upload/v1745790277/Lovestruck%20in%20the%20City/7.de.vtt",
+              "kind": "subtitles",
+              "label": "German",
+              "srclang": "de",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://res.cloudinary.com/sub2k10/raw/upload/v1745790277/Lovestruck%20in%20the%20City/7.fr.vtt",
+              "kind": "subtitles",
+              "label": "French",
+              "srclang": "fr",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://res.cloudinary.com/sub2k10/raw/upload/v1745790277/Lovestruck%20in%20the%20City/7.es.vtt",
+              "kind": "subtitles",
+              "label": "Spanish",
+              "srclang": "es",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            }
+          ],
+          "main_sub_url": "https://res.cloudinary.com/sub2k10/raw/upload/v1745790277/Lovestruck%20in%20the%20City/7.en.vtt"
+        },
+        {
+          "id": "33907",
+          "number": 8,
+          "title": "Episode 8",
+          "is_locked": false,
+          "state": "available",
+          "isPlayable": true,
+          "isUpcoming": false,
+          "available_at": null,
+          "availableInSeconds": null,
+          "badge": "",
+          "duration_seconds": null,
+          "sub": 11,
+          "deliveryDeferred": true,
+          "video_url": "https://hlscdn.vip/media/ud2Ugl9c3T.mp4",
+          "tracks": [
+            {
+              "file": "https://res.cloudinary.com/sub2k10/raw/upload/v1745790277/Lovestruck%20in%20the%20City/8.tl.vtt",
+              "kind": "subtitles",
+              "label": "Filipino",
+              "srclang": "tl",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://res.cloudinary.com/sub2k10/raw/upload/v1745790277/Lovestruck%20in%20the%20City/8.km.vtt",
+              "kind": "subtitles",
+              "label": "Khmer",
+              "srclang": "km",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://res.cloudinary.com/sub2k10/raw/upload/v1745790277/Lovestruck%20in%20the%20City/8.en.vtt",
+              "kind": "subtitles",
+              "label": "English",
+              "srclang": "en",
+              "default": true,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://res.cloudinary.com/sub2k10/raw/upload/v1745790277/Lovestruck%20in%20the%20City/8.id.vtt",
+              "kind": "subtitles",
+              "label": "Indonesian",
+              "srclang": "id",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://res.cloudinary.com/sub2k10/raw/upload/v1745790277/Lovestruck%20in%20the%20City/8.ms.vtt",
+              "kind": "subtitles",
+              "label": "Malay",
+              "srclang": "ms",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://res.cloudinary.com/sub2k10/raw/upload/v1745790277/Lovestruck%20in%20the%20City/8.pt.vtt",
+              "kind": "subtitles",
+              "label": "Portuguese",
+              "srclang": "pt",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://res.cloudinary.com/sub2k10/raw/upload/v1745790277/Lovestruck%20in%20the%20City/8.ar.vtt",
+              "kind": "subtitles",
+              "label": "Arabic",
+              "srclang": "ar",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://res.cloudinary.com/sub2k10/raw/upload/v1745790277/Lovestruck%20in%20the%20City/8.hi.vtt",
+              "kind": "subtitles",
+              "label": "Hindi",
+              "srclang": "hi",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://res.cloudinary.com/sub2k10/raw/upload/v1745790277/Lovestruck%20in%20the%20City/8.de.vtt",
+              "kind": "subtitles",
+              "label": "German",
+              "srclang": "de",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://res.cloudinary.com/sub2k10/raw/upload/v1745790277/Lovestruck%20in%20the%20City/8.fr.vtt",
+              "kind": "subtitles",
+              "label": "French",
+              "srclang": "fr",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://res.cloudinary.com/sub2k10/raw/upload/v1745790277/Lovestruck%20in%20the%20City/8.es.vtt",
+              "kind": "subtitles",
+              "label": "Spanish",
+              "srclang": "es",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            }
+          ],
+          "main_sub_url": "https://res.cloudinary.com/sub2k10/raw/upload/v1745790277/Lovestruck%20in%20the%20City/8.en.vtt"
+        },
+        {
+          "id": "33908",
+          "number": 9,
+          "title": "Episode 9",
+          "is_locked": false,
+          "state": "available",
+          "isPlayable": true,
+          "isUpcoming": false,
+          "available_at": null,
+          "availableInSeconds": null,
+          "badge": "",
+          "duration_seconds": null,
+          "sub": 11,
+          "deliveryDeferred": true,
+          "video_url": "https://hlscdn.vip/media/wFIygiF1Xs.mp4",
+          "tracks": [
+            {
+              "file": "https://res.cloudinary.com/sub2k10/raw/upload/v1745790277/Lovestruck%20in%20the%20City/9.tl.vtt",
+              "kind": "subtitles",
+              "label": "Filipino",
+              "srclang": "tl",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://res.cloudinary.com/sub2k10/raw/upload/v1745790277/Lovestruck%20in%20the%20City/9.km.vtt",
+              "kind": "subtitles",
+              "label": "Khmer",
+              "srclang": "km",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://res.cloudinary.com/sub2k10/raw/upload/v1745790277/Lovestruck%20in%20the%20City/9.en.vtt",
+              "kind": "subtitles",
+              "label": "English",
+              "srclang": "en",
+              "default": true,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://res.cloudinary.com/sub2k10/raw/upload/v1745790277/Lovestruck%20in%20the%20City/9.id.vtt",
+              "kind": "subtitles",
+              "label": "Indonesian",
+              "srclang": "id",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://res.cloudinary.com/sub2k10/raw/upload/v1745790277/Lovestruck%20in%20the%20City/9.ms.vtt",
+              "kind": "subtitles",
+              "label": "Malay",
+              "srclang": "ms",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://res.cloudinary.com/sub2k10/raw/upload/v1745790277/Lovestruck%20in%20the%20City/9.pt.vtt",
+              "kind": "subtitles",
+              "label": "Portuguese",
+              "srclang": "pt",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://res.cloudinary.com/sub2k10/raw/upload/v1745790277/Lovestruck%20in%20the%20City/9.ar.vtt",
+              "kind": "subtitles",
+              "label": "Arabic",
+              "srclang": "ar",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://res.cloudinary.com/sub2k10/raw/upload/v1745790277/Lovestruck%20in%20the%20City/9.hi.vtt",
+              "kind": "subtitles",
+              "label": "Hindi",
+              "srclang": "hi",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://res.cloudinary.com/sub2k10/raw/upload/v1745790277/Lovestruck%20in%20the%20City/9.de.vtt",
+              "kind": "subtitles",
+              "label": "German",
+              "srclang": "de",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://res.cloudinary.com/sub2k10/raw/upload/v1745790277/Lovestruck%20in%20the%20City/9.fr.vtt",
+              "kind": "subtitles",
+              "label": "French",
+              "srclang": "fr",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://res.cloudinary.com/sub2k10/raw/upload/v1745790277/Lovestruck%20in%20the%20City/9.es.vtt",
+              "kind": "subtitles",
+              "label": "Spanish",
+              "srclang": "es",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            }
+          ],
+          "main_sub_url": "https://res.cloudinary.com/sub2k10/raw/upload/v1745790277/Lovestruck%20in%20the%20City/9.en.vtt"
+        },
+        {
+          "id": "33909",
+          "number": 10,
+          "title": "Episode 10",
+          "is_locked": false,
+          "state": "available",
+          "isPlayable": true,
+          "isUpcoming": false,
+          "available_at": null,
+          "availableInSeconds": null,
+          "badge": "",
+          "duration_seconds": null,
+          "sub": 11,
+          "deliveryDeferred": true,
+          "video_url": "https://hlscdn.vip/media/qFx7bbmisN.mp4",
+          "tracks": [
+            {
+              "file": "https://res.cloudinary.com/sub2k10/raw/upload/v1745790277/Lovestruck%20in%20the%20City/10.tl.vtt",
+              "kind": "subtitles",
+              "label": "Filipino",
+              "srclang": "tl",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://res.cloudinary.com/sub2k10/raw/upload/v1745790277/Lovestruck%20in%20the%20City/10.km.vtt",
+              "kind": "subtitles",
+              "label": "Khmer",
+              "srclang": "km",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://res.cloudinary.com/sub2k10/raw/upload/v1745790277/Lovestruck%20in%20the%20City/10.en.vtt",
+              "kind": "subtitles",
+              "label": "English",
+              "srclang": "en",
+              "default": true,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://res.cloudinary.com/sub2k10/raw/upload/v1745790277/Lovestruck%20in%20the%20City/10.id.vtt",
+              "kind": "subtitles",
+              "label": "Indonesian",
+              "srclang": "id",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://res.cloudinary.com/sub2k10/raw/upload/v1745790277/Lovestruck%20in%20the%20City/10.ms.vtt",
+              "kind": "subtitles",
+              "label": "Malay",
+              "srclang": "ms",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://res.cloudinary.com/sub2k10/raw/upload/v1745790277/Lovestruck%20in%20the%20City/10.pt.vtt",
+              "kind": "subtitles",
+              "label": "Portuguese",
+              "srclang": "pt",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://res.cloudinary.com/sub2k10/raw/upload/v1745790277/Lovestruck%20in%20the%20City/10.ar.vtt",
+              "kind": "subtitles",
+              "label": "Arabic",
+              "srclang": "ar",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://res.cloudinary.com/sub2k10/raw/upload/v1745790277/Lovestruck%20in%20the%20City/10.hi.vtt",
+              "kind": "subtitles",
+              "label": "Hindi",
+              "srclang": "hi",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://res.cloudinary.com/sub2k10/raw/upload/v1745790277/Lovestruck%20in%20the%20City/10.de.vtt",
+              "kind": "subtitles",
+              "label": "German",
+              "srclang": "de",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://res.cloudinary.com/sub2k10/raw/upload/v1745790277/Lovestruck%20in%20the%20City/10.fr.vtt",
+              "kind": "subtitles",
+              "label": "French",
+              "srclang": "fr",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://res.cloudinary.com/sub2k10/raw/upload/v1745790277/Lovestruck%20in%20the%20City/10.es.vtt",
+              "kind": "subtitles",
+              "label": "Spanish",
+              "srclang": "es",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            }
+          ],
+          "main_sub_url": "https://res.cloudinary.com/sub2k10/raw/upload/v1745790277/Lovestruck%20in%20the%20City/10.en.vtt"
+        },
+        {
+          "id": "33910",
+          "number": 11,
+          "title": "Episode 11",
+          "is_locked": false,
+          "state": "available",
+          "isPlayable": true,
+          "isUpcoming": false,
+          "available_at": null,
+          "availableInSeconds": null,
+          "badge": "",
+          "duration_seconds": null,
+          "sub": 11,
+          "deliveryDeferred": true,
+          "video_url": "https://hlscdn.vip/media/IFUZ4pXOAt.mp4",
+          "tracks": [
+            {
+              "file": "https://res.cloudinary.com/sub2k10/raw/upload/v1745790277/Lovestruck%20in%20the%20City/11.tl.vtt",
+              "kind": "subtitles",
+              "label": "Filipino",
+              "srclang": "tl",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://res.cloudinary.com/sub2k10/raw/upload/v1745790277/Lovestruck%20in%20the%20City/11.km.vtt",
+              "kind": "subtitles",
+              "label": "Khmer",
+              "srclang": "km",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://res.cloudinary.com/sub2k10/raw/upload/v1745790277/Lovestruck%20in%20the%20City/11.en.vtt",
+              "kind": "subtitles",
+              "label": "English",
+              "srclang": "en",
+              "default": true,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://res.cloudinary.com/sub2k10/raw/upload/v1745790277/Lovestruck%20in%20the%20City/11.id.vtt",
+              "kind": "subtitles",
+              "label": "Indonesian",
+              "srclang": "id",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://res.cloudinary.com/sub2k10/raw/upload/v1745790277/Lovestruck%20in%20the%20City/11.ms.vtt",
+              "kind": "subtitles",
+              "label": "Malay",
+              "srclang": "ms",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://res.cloudinary.com/sub2k10/raw/upload/v1745790277/Lovestruck%20in%20the%20City/11.pt.vtt",
+              "kind": "subtitles",
+              "label": "Portuguese",
+              "srclang": "pt",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://res.cloudinary.com/sub2k10/raw/upload/v1745790277/Lovestruck%20in%20the%20City/11.ar.vtt",
+              "kind": "subtitles",
+              "label": "Arabic",
+              "srclang": "ar",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://res.cloudinary.com/sub2k10/raw/upload/v1745790277/Lovestruck%20in%20the%20City/11.hi.vtt",
+              "kind": "subtitles",
+              "label": "Hindi",
+              "srclang": "hi",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://res.cloudinary.com/sub2k10/raw/upload/v1745790277/Lovestruck%20in%20the%20City/11.de.vtt",
+              "kind": "subtitles",
+              "label": "German",
+              "srclang": "de",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://res.cloudinary.com/sub2k10/raw/upload/v1745790277/Lovestruck%20in%20the%20City/11.fr.vtt",
+              "kind": "subtitles",
+              "label": "French",
+              "srclang": "fr",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://res.cloudinary.com/sub2k10/raw/upload/v1745790277/Lovestruck%20in%20the%20City/11.es.vtt",
+              "kind": "subtitles",
+              "label": "Spanish",
+              "srclang": "es",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            }
+          ],
+          "main_sub_url": "https://res.cloudinary.com/sub2k10/raw/upload/v1745790277/Lovestruck%20in%20the%20City/11.en.vtt"
+        },
+        {
+          "id": "33911",
+          "number": 12,
+          "title": "Episode 12",
+          "is_locked": false,
+          "state": "available",
+          "isPlayable": true,
+          "isUpcoming": false,
+          "available_at": null,
+          "availableInSeconds": null,
+          "badge": "",
+          "duration_seconds": null,
+          "sub": 11,
+          "deliveryDeferred": true,
+          "video_url": "https://hlscdn.vip/media/bctQWSqQBv.mp4",
+          "tracks": [
+            {
+              "file": "https://res.cloudinary.com/sub2k10/raw/upload/v1745790277/Lovestruck%20in%20the%20City/12.tl.vtt",
+              "kind": "subtitles",
+              "label": "Filipino",
+              "srclang": "tl",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://res.cloudinary.com/sub2k10/raw/upload/v1745790277/Lovestruck%20in%20the%20City/12.km.vtt",
+              "kind": "subtitles",
+              "label": "Khmer",
+              "srclang": "km",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://res.cloudinary.com/sub2k10/raw/upload/v1745790277/Lovestruck%20in%20the%20City/12.en.vtt",
+              "kind": "subtitles",
+              "label": "English",
+              "srclang": "en",
+              "default": true,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://res.cloudinary.com/sub2k10/raw/upload/v1745790277/Lovestruck%20in%20the%20City/12.id.vtt",
+              "kind": "subtitles",
+              "label": "Indonesian",
+              "srclang": "id",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://res.cloudinary.com/sub2k10/raw/upload/v1745790277/Lovestruck%20in%20the%20City/12.ms.vtt",
+              "kind": "subtitles",
+              "label": "Malay",
+              "srclang": "ms",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://res.cloudinary.com/sub2k10/raw/upload/v1745790277/Lovestruck%20in%20the%20City/12.pt.vtt",
+              "kind": "subtitles",
+              "label": "Portuguese",
+              "srclang": "pt",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://res.cloudinary.com/sub2k10/raw/upload/v1745790277/Lovestruck%20in%20the%20City/12.ar.vtt",
+              "kind": "subtitles",
+              "label": "Arabic",
+              "srclang": "ar",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://res.cloudinary.com/sub2k10/raw/upload/v1745790277/Lovestruck%20in%20the%20City/12.hi.vtt",
+              "kind": "subtitles",
+              "label": "Hindi",
+              "srclang": "hi",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://res.cloudinary.com/sub2k10/raw/upload/v1745790277/Lovestruck%20in%20the%20City/12.de.vtt",
+              "kind": "subtitles",
+              "label": "German",
+              "srclang": "de",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://res.cloudinary.com/sub2k10/raw/upload/v1745790277/Lovestruck%20in%20the%20City/12.fr.vtt",
+              "kind": "subtitles",
+              "label": "French",
+              "srclang": "fr",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://res.cloudinary.com/sub2k10/raw/upload/v1745790277/Lovestruck%20in%20the%20City/12.es.vtt",
+              "kind": "subtitles",
+              "label": "Spanish",
+              "srclang": "es",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            }
+          ],
+          "main_sub_url": "https://res.cloudinary.com/sub2k10/raw/upload/v1745790277/Lovestruck%20in%20the%20City/12.en.vtt"
+        },
+        {
+          "id": "33912",
+          "number": 13,
+          "title": "Episode 13",
+          "is_locked": false,
+          "state": "available",
+          "isPlayable": true,
+          "isUpcoming": false,
+          "available_at": null,
+          "availableInSeconds": null,
+          "badge": "",
+          "duration_seconds": null,
+          "sub": 11,
+          "deliveryDeferred": true,
+          "video_url": "https://hlscdn.vip/media/Ido6ECm3oF.mp4",
+          "tracks": [
+            {
+              "file": "https://res.cloudinary.com/sub2k10/raw/upload/v1745790277/Lovestruck%20in%20the%20City/13.tl.vtt",
+              "kind": "subtitles",
+              "label": "Filipino",
+              "srclang": "tl",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://res.cloudinary.com/sub2k10/raw/upload/v1745790277/Lovestruck%20in%20the%20City/13.km.vtt",
+              "kind": "subtitles",
+              "label": "Khmer",
+              "srclang": "km",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://res.cloudinary.com/sub2k10/raw/upload/v1745790277/Lovestruck%20in%20the%20City/13.en.vtt",
+              "kind": "subtitles",
+              "label": "English",
+              "srclang": "en",
+              "default": true,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://res.cloudinary.com/sub2k10/raw/upload/v1745790277/Lovestruck%20in%20the%20City/13.id.vtt",
+              "kind": "subtitles",
+              "label": "Indonesian",
+              "srclang": "id",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://res.cloudinary.com/sub2k10/raw/upload/v1745790277/Lovestruck%20in%20the%20City/13.ms.vtt",
+              "kind": "subtitles",
+              "label": "Malay",
+              "srclang": "ms",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://res.cloudinary.com/sub2k10/raw/upload/v1745790277/Lovestruck%20in%20the%20City/13.pt.vtt",
+              "kind": "subtitles",
+              "label": "Portuguese",
+              "srclang": "pt",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://res.cloudinary.com/sub2k10/raw/upload/v1745790277/Lovestruck%20in%20the%20City/13.ar.vtt",
+              "kind": "subtitles",
+              "label": "Arabic",
+              "srclang": "ar",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://res.cloudinary.com/sub2k10/raw/upload/v1745790277/Lovestruck%20in%20the%20City/13.hi.vtt",
+              "kind": "subtitles",
+              "label": "Hindi",
+              "srclang": "hi",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://res.cloudinary.com/sub2k10/raw/upload/v1745790277/Lovestruck%20in%20the%20City/13.de.vtt",
+              "kind": "subtitles",
+              "label": "German",
+              "srclang": "de",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://res.cloudinary.com/sub2k10/raw/upload/v1745790277/Lovestruck%20in%20the%20City/13.fr.vtt",
+              "kind": "subtitles",
+              "label": "French",
+              "srclang": "fr",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://res.cloudinary.com/sub2k10/raw/upload/v1745790277/Lovestruck%20in%20the%20City/13.es.vtt",
+              "kind": "subtitles",
+              "label": "Spanish",
+              "srclang": "es",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            }
+          ],
+          "main_sub_url": "https://res.cloudinary.com/sub2k10/raw/upload/v1745790277/Lovestruck%20in%20the%20City/13.en.vtt"
+        },
+        {
+          "id": "33913",
+          "number": 14,
+          "title": "Episode 14",
+          "is_locked": false,
+          "state": "available",
+          "isPlayable": true,
+          "isUpcoming": false,
+          "available_at": null,
+          "availableInSeconds": null,
+          "badge": "",
+          "duration_seconds": null,
+          "sub": 11,
+          "deliveryDeferred": true,
+          "video_url": "https://hlscdn.vip/media/m44xe4tO8V.mp4",
+          "tracks": [
+            {
+              "file": "https://res.cloudinary.com/sub2k10/raw/upload/v1745790277/Lovestruck%20in%20the%20City/14.tl.vtt",
+              "kind": "subtitles",
+              "label": "Filipino",
+              "srclang": "tl",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://res.cloudinary.com/sub2k10/raw/upload/v1745790277/Lovestruck%20in%20the%20City/14.km.vtt",
+              "kind": "subtitles",
+              "label": "Khmer",
+              "srclang": "km",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://res.cloudinary.com/sub2k10/raw/upload/v1745790277/Lovestruck%20in%20the%20City/14.en.vtt",
+              "kind": "subtitles",
+              "label": "English",
+              "srclang": "en",
+              "default": true,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://res.cloudinary.com/sub2k10/raw/upload/v1745790277/Lovestruck%20in%20the%20City/14.id.vtt",
+              "kind": "subtitles",
+              "label": "Indonesian",
+              "srclang": "id",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://res.cloudinary.com/sub2k10/raw/upload/v1745790277/Lovestruck%20in%20the%20City/14.ms.vtt",
+              "kind": "subtitles",
+              "label": "Malay",
+              "srclang": "ms",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://res.cloudinary.com/sub2k10/raw/upload/v1745790277/Lovestruck%20in%20the%20City/14.pt.vtt",
+              "kind": "subtitles",
+              "label": "Portuguese",
+              "srclang": "pt",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://res.cloudinary.com/sub2k10/raw/upload/v1745790277/Lovestruck%20in%20the%20City/14.ar.vtt",
+              "kind": "subtitles",
+              "label": "Arabic",
+              "srclang": "ar",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://res.cloudinary.com/sub2k10/raw/upload/v1745790277/Lovestruck%20in%20the%20City/14.hi.vtt",
+              "kind": "subtitles",
+              "label": "Hindi",
+              "srclang": "hi",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://res.cloudinary.com/sub2k10/raw/upload/v1745790277/Lovestruck%20in%20the%20City/14.de.vtt",
+              "kind": "subtitles",
+              "label": "German",
+              "srclang": "de",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://res.cloudinary.com/sub2k10/raw/upload/v1745790277/Lovestruck%20in%20the%20City/14.fr.vtt",
+              "kind": "subtitles",
+              "label": "French",
+              "srclang": "fr",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://res.cloudinary.com/sub2k10/raw/upload/v1745790277/Lovestruck%20in%20the%20City/14.es.vtt",
+              "kind": "subtitles",
+              "label": "Spanish",
+              "srclang": "es",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            }
+          ],
+          "main_sub_url": "https://res.cloudinary.com/sub2k10/raw/upload/v1745790277/Lovestruck%20in%20the%20City/14.en.vtt"
+        },
+        {
+          "id": "33914",
+          "number": 15,
+          "title": "Episode 15",
+          "is_locked": false,
+          "state": "available",
+          "isPlayable": true,
+          "isUpcoming": false,
+          "available_at": null,
+          "availableInSeconds": null,
+          "badge": "",
+          "duration_seconds": null,
+          "sub": 11,
+          "deliveryDeferred": true,
+          "video_url": "https://hlscdn.vip/media/x5Z2AHGrEr.mp4",
+          "tracks": [
+            {
+              "file": "https://res.cloudinary.com/sub2k10/raw/upload/v1745790277/Lovestruck%20in%20the%20City/15.tl.vtt",
+              "kind": "subtitles",
+              "label": "Filipino",
+              "srclang": "tl",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://res.cloudinary.com/sub2k10/raw/upload/v1745790277/Lovestruck%20in%20the%20City/15.km.vtt",
+              "kind": "subtitles",
+              "label": "Khmer",
+              "srclang": "km",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://res.cloudinary.com/sub2k10/raw/upload/v1745790277/Lovestruck%20in%20the%20City/15.en.vtt",
+              "kind": "subtitles",
+              "label": "English",
+              "srclang": "en",
+              "default": true,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://res.cloudinary.com/sub2k10/raw/upload/v1745790277/Lovestruck%20in%20the%20City/15.id.vtt",
+              "kind": "subtitles",
+              "label": "Indonesian",
+              "srclang": "id",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://res.cloudinary.com/sub2k10/raw/upload/v1745790277/Lovestruck%20in%20the%20City/15.ms.vtt",
+              "kind": "subtitles",
+              "label": "Malay",
+              "srclang": "ms",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://res.cloudinary.com/sub2k10/raw/upload/v1745790277/Lovestruck%20in%20the%20City/15.pt.vtt",
+              "kind": "subtitles",
+              "label": "Portuguese",
+              "srclang": "pt",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://res.cloudinary.com/sub2k10/raw/upload/v1745790277/Lovestruck%20in%20the%20City/15.ar.vtt",
+              "kind": "subtitles",
+              "label": "Arabic",
+              "srclang": "ar",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://res.cloudinary.com/sub2k10/raw/upload/v1745790277/Lovestruck%20in%20the%20City/15.hi.vtt",
+              "kind": "subtitles",
+              "label": "Hindi",
+              "srclang": "hi",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://res.cloudinary.com/sub2k10/raw/upload/v1745790277/Lovestruck%20in%20the%20City/15.de.vtt",
+              "kind": "subtitles",
+              "label": "German",
+              "srclang": "de",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://res.cloudinary.com/sub2k10/raw/upload/v1745790277/Lovestruck%20in%20the%20City/15.fr.vtt",
+              "kind": "subtitles",
+              "label": "French",
+              "srclang": "fr",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://res.cloudinary.com/sub2k10/raw/upload/v1745790277/Lovestruck%20in%20the%20City/15.es.vtt",
+              "kind": "subtitles",
+              "label": "Spanish",
+              "srclang": "es",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            }
+          ],
+          "main_sub_url": "https://res.cloudinary.com/sub2k10/raw/upload/v1745790277/Lovestruck%20in%20the%20City/15.en.vtt"
+        },
+        {
+          "id": "33915",
+          "number": 16,
+          "title": "Episode 16",
+          "is_locked": false,
+          "state": "available",
+          "isPlayable": true,
+          "isUpcoming": false,
+          "available_at": null,
+          "availableInSeconds": null,
+          "badge": "",
+          "duration_seconds": null,
+          "sub": 11,
+          "deliveryDeferred": true,
+          "video_url": "https://hlscdn.vip/media/WKSa4jDygl.mp4",
+          "tracks": [
+            {
+              "file": "https://res.cloudinary.com/sub2k10/raw/upload/v1745790277/Lovestruck%20in%20the%20City/16.tl.vtt",
+              "kind": "subtitles",
+              "label": "Filipino",
+              "srclang": "tl",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://res.cloudinary.com/sub2k10/raw/upload/v1745790277/Lovestruck%20in%20the%20City/16.km.vtt",
+              "kind": "subtitles",
+              "label": "Khmer",
+              "srclang": "km",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://res.cloudinary.com/sub2k10/raw/upload/v1745790277/Lovestruck%20in%20the%20City/16.en.vtt",
+              "kind": "subtitles",
+              "label": "English",
+              "srclang": "en",
+              "default": true,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://res.cloudinary.com/sub2k10/raw/upload/v1745790277/Lovestruck%20in%20the%20City/16.id.vtt",
+              "kind": "subtitles",
+              "label": "Indonesian",
+              "srclang": "id",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://res.cloudinary.com/sub2k10/raw/upload/v1745790277/Lovestruck%20in%20the%20City/16.ms.vtt",
+              "kind": "subtitles",
+              "label": "Malay",
+              "srclang": "ms",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://res.cloudinary.com/sub2k10/raw/upload/v1745790277/Lovestruck%20in%20the%20City/16.pt.vtt",
+              "kind": "subtitles",
+              "label": "Portuguese",
+              "srclang": "pt",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://res.cloudinary.com/sub2k10/raw/upload/v1745790277/Lovestruck%20in%20the%20City/16.ar.vtt",
+              "kind": "subtitles",
+              "label": "Arabic",
+              "srclang": "ar",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://res.cloudinary.com/sub2k10/raw/upload/v1745790277/Lovestruck%20in%20the%20City/16.hi.vtt",
+              "kind": "subtitles",
+              "label": "Hindi",
+              "srclang": "hi",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://res.cloudinary.com/sub2k10/raw/upload/v1745790277/Lovestruck%20in%20the%20City/16.de.vtt",
+              "kind": "subtitles",
+              "label": "German",
+              "srclang": "de",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://res.cloudinary.com/sub2k10/raw/upload/v1745790277/Lovestruck%20in%20the%20City/16.fr.vtt",
+              "kind": "subtitles",
+              "label": "French",
+              "srclang": "fr",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://res.cloudinary.com/sub2k10/raw/upload/v1745790277/Lovestruck%20in%20the%20City/16.es.vtt",
+              "kind": "subtitles",
+              "label": "Spanish",
+              "srclang": "es",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            }
+          ],
+          "main_sub_url": "https://res.cloudinary.com/sub2k10/raw/upload/v1745790277/Lovestruck%20in%20the%20City/16.en.vtt"
+        },
+        {
+          "id": "33916",
+          "number": 17,
+          "title": "Episode 17",
+          "is_locked": false,
+          "state": "available",
+          "isPlayable": true,
+          "isUpcoming": false,
+          "available_at": null,
+          "availableInSeconds": null,
+          "badge": "",
+          "duration_seconds": null,
+          "sub": 11,
+          "deliveryDeferred": true,
+          "video_url": "https://hlscdn.vip/media/KWWVCS2f7k.mp4",
+          "tracks": [
+            {
+              "file": "https://res.cloudinary.com/sub2k10/raw/upload/v1745790277/Lovestruck%20in%20the%20City/17.tl.vtt",
+              "kind": "subtitles",
+              "label": "Filipino",
+              "srclang": "tl",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://res.cloudinary.com/sub2k10/raw/upload/v1745790277/Lovestruck%20in%20the%20City/17.km.vtt",
+              "kind": "subtitles",
+              "label": "Khmer",
+              "srclang": "km",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://res.cloudinary.com/sub2k10/raw/upload/v1745790277/Lovestruck%20in%20the%20City/17.en.vtt",
+              "kind": "subtitles",
+              "label": "English",
+              "srclang": "en",
+              "default": true,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://res.cloudinary.com/sub2k10/raw/upload/v1745790277/Lovestruck%20in%20the%20City/17.id.vtt",
+              "kind": "subtitles",
+              "label": "Indonesian",
+              "srclang": "id",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://res.cloudinary.com/sub2k10/raw/upload/v1745790277/Lovestruck%20in%20the%20City/17.ms.vtt",
+              "kind": "subtitles",
+              "label": "Malay",
+              "srclang": "ms",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://res.cloudinary.com/sub2k10/raw/upload/v1745790277/Lovestruck%20in%20the%20City/17.pt.vtt",
+              "kind": "subtitles",
+              "label": "Portuguese",
+              "srclang": "pt",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://res.cloudinary.com/sub2k10/raw/upload/v1745790277/Lovestruck%20in%20the%20City/17.ar.vtt",
+              "kind": "subtitles",
+              "label": "Arabic",
+              "srclang": "ar",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://res.cloudinary.com/sub2k10/raw/upload/v1745790277/Lovestruck%20in%20the%20City/17.hi.vtt",
+              "kind": "subtitles",
+              "label": "Hindi",
+              "srclang": "hi",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://res.cloudinary.com/sub2k10/raw/upload/v1745790277/Lovestruck%20in%20the%20City/17.de.vtt",
+              "kind": "subtitles",
+              "label": "German",
+              "srclang": "de",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://res.cloudinary.com/sub2k10/raw/upload/v1745790277/Lovestruck%20in%20the%20City/17.fr.vtt",
+              "kind": "subtitles",
+              "label": "French",
+              "srclang": "fr",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://res.cloudinary.com/sub2k10/raw/upload/v1745790277/Lovestruck%20in%20the%20City/17.es.vtt",
+              "kind": "subtitles",
+              "label": "Spanish",
+              "srclang": "es",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            }
+          ],
+          "main_sub_url": "https://res.cloudinary.com/sub2k10/raw/upload/v1745790277/Lovestruck%20in%20the%20City/17.en.vtt"
+        }
+      ],
+      "status": "ok"
+    },
+    {
+      "id": "2217",
+      "slug": "the-sound-of-sugar-cubes",
+      "title": "The Sound of Sugar Cubes",
+      "description": "A high school boy who can hear the emotions and memories of others through sound tries to hide his unusual ability from the world. His encounter with a seemingly perfect idol trainee forces him to confront feelings he has long suppressed. As love, obsession, and emotional wounds intertwine, their relationship reveals the fragile boundary between salvation and destruction.",
+      "poster": "https://image.tmdb.org/t/p/w1280/9vUUd4FCWfYh7wCtZlNSPILMuA1.jpg",
+      "thumbnail": "https://image.tmdb.org/t/p/w1280/9vUUd4FCWfYh7wCtZlNSPILMuA1.jpg",
+      "type": 1,
+      "country": 2,
+      "content_status": "ongoing",
+      "is_locked": false,
+      "views": 0,
+      "rating": 0,
+      "release_year": 2026,
+      "releaseDate": "2026-10-23T12:43:14",
+      "updatedDate": "2026-10-23T12:43:14",
+      "updated": "2026-10-23T12:43:14",
+      "episode": 2,
+      "latestEpisode": 2,
+      "totalEpisode": 2,
+      "episodeCount": 2,
+      "badge": "EP 2",
+      "api_url": "/api/frontend/content/2217",
+      "sub": 11,
+      "episodes": [
+        {
+          "id": "2217",
+          "number": 1,
+          "title": "Episode 1",
+          "is_locked": false,
+          "state": "available",
+          "isPlayable": true,
+          "isUpcoming": false,
+          "available_at": null,
+          "availableInSeconds": null,
+          "badge": "",
+          "duration_seconds": null,
+          "sub": 11,
+          "deliveryDeferred": true,
+          "video_url": "https://hlscdn.vip/media/LcAHIFWkGv.mp4",
+          "tracks": [
+            {
+              "file": "https://sub.cdnauto.xyz/kr/The%20Sound%20of%20Sugar%20Cubes/1.tl.vtt",
+              "kind": "subtitles",
+              "label": "Filipino",
+              "srclang": "tl",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/kr/The%20Sound%20of%20Sugar%20Cubes/1.km.vtt",
+              "kind": "subtitles",
+              "label": "Khmer",
+              "srclang": "km",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/kr/The%20Sound%20of%20Sugar%20Cubes/1.en.vtt",
+              "kind": "subtitles",
+              "label": "English",
+              "srclang": "en",
+              "default": true,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/kr/The%20Sound%20of%20Sugar%20Cubes/1.id.vtt",
+              "kind": "subtitles",
+              "label": "Indonesian",
+              "srclang": "id",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/kr/The%20Sound%20of%20Sugar%20Cubes/1.ms.vtt",
+              "kind": "subtitles",
+              "label": "Malay",
+              "srclang": "ms",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/kr/The%20Sound%20of%20Sugar%20Cubes/1.pt.vtt",
+              "kind": "subtitles",
+              "label": "Portuguese",
+              "srclang": "pt",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/kr/The%20Sound%20of%20Sugar%20Cubes/1.ar.vtt",
+              "kind": "subtitles",
+              "label": "Arabic",
+              "srclang": "ar",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/kr/The%20Sound%20of%20Sugar%20Cubes/1.hi.vtt",
+              "kind": "subtitles",
+              "label": "Hindi",
+              "srclang": "hi",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/kr/The%20Sound%20of%20Sugar%20Cubes/1.de.vtt",
+              "kind": "subtitles",
+              "label": "German",
+              "srclang": "de",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/kr/The%20Sound%20of%20Sugar%20Cubes/1.fr.vtt",
+              "kind": "subtitles",
+              "label": "French",
+              "srclang": "fr",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/kr/The%20Sound%20of%20Sugar%20Cubes/1.es.vtt",
+              "kind": "subtitles",
+              "label": "Spanish",
+              "srclang": "es",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            }
+          ],
+          "main_sub_url": "https://sub.cdnauto.xyz/kr/The%20Sound%20of%20Sugar%20Cubes/1.en.vtt"
+        },
+        {
+          "id": "33900",
+          "number": 2,
+          "title": "Episode 2",
+          "is_locked": false,
+          "state": "available",
+          "isPlayable": true,
+          "isUpcoming": false,
+          "available_at": null,
+          "availableInSeconds": null,
+          "badge": "",
+          "duration_seconds": null,
+          "sub": 11,
+          "deliveryDeferred": true,
+          "video_url": "https://hlscdn.vip/media/tapF80CNk6.mp4",
+          "tracks": [
+            {
+              "file": "https://sub.cdnauto.xyz/kr/The%20Sound%20of%20Sugar%20Cubes/2.tl.vtt",
+              "kind": "subtitles",
+              "label": "Filipino",
+              "srclang": "tl",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/kr/The%20Sound%20of%20Sugar%20Cubes/2.km.vtt",
+              "kind": "subtitles",
+              "label": "Khmer",
+              "srclang": "km",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/kr/The%20Sound%20of%20Sugar%20Cubes/2.en.vtt",
+              "kind": "subtitles",
+              "label": "English",
+              "srclang": "en",
+              "default": true,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/kr/The%20Sound%20of%20Sugar%20Cubes/2.id.vtt",
+              "kind": "subtitles",
+              "label": "Indonesian",
+              "srclang": "id",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/kr/The%20Sound%20of%20Sugar%20Cubes/2.ms.vtt",
+              "kind": "subtitles",
+              "label": "Malay",
+              "srclang": "ms",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/kr/The%20Sound%20of%20Sugar%20Cubes/2.pt.vtt",
+              "kind": "subtitles",
+              "label": "Portuguese",
+              "srclang": "pt",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/kr/The%20Sound%20of%20Sugar%20Cubes/2.ar.vtt",
+              "kind": "subtitles",
+              "label": "Arabic",
+              "srclang": "ar",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/kr/The%20Sound%20of%20Sugar%20Cubes/2.hi.vtt",
+              "kind": "subtitles",
+              "label": "Hindi",
+              "srclang": "hi",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/kr/The%20Sound%20of%20Sugar%20Cubes/2.de.vtt",
+              "kind": "subtitles",
+              "label": "German",
+              "srclang": "de",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/kr/The%20Sound%20of%20Sugar%20Cubes/2.fr.vtt",
+              "kind": "subtitles",
+              "label": "French",
+              "srclang": "fr",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/kr/The%20Sound%20of%20Sugar%20Cubes/2.es.vtt",
+              "kind": "subtitles",
+              "label": "Spanish",
+              "srclang": "es",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            }
+          ],
+          "main_sub_url": "https://sub.cdnauto.xyz/kr/The%20Sound%20of%20Sugar%20Cubes/2.en.vtt"
+        }
+      ],
+      "status": "ok"
+    },
+    {
+      "id": "2216",
+      "slug": "love-on-hire",
+      "title": "Love on Hire",
+      "description": "Thitinan will take any job—being a fake girlfriend and breaking up a relationship, or, special just for Miss Chat, becoming a bedroom coach.Adapted from the novel \"Love on Hire\" (รับจ้าง(เลิก)รัก) by Yuufuku",
+      "poster": "https://kissimge1.site/6ab3b03d-6ec4-83ec-b04c-934de4d3b5c1.png",
+      "thumbnail": "https://kissimge1.site/6ab3b03d-6ec4-83ec-b04c-934de4d3b5c1.png",
+      "type": 1,
+      "country": 4,
+      "content_status": "ongoing",
+      "is_locked": false,
+      "views": 0,
+      "rating": 0,
+      "release_year": 2026,
+      "releaseDate": "2026-10-22T21:30:47",
+      "updatedDate": "2026-10-22T21:30:47",
+      "updated": "2026-10-22T21:30:47",
+      "episode": 2,
+      "latestEpisode": 2,
+      "totalEpisode": 2,
+      "episodeCount": 2,
+      "badge": "EP 2",
+      "api_url": "/api/frontend/content/2216",
+      "sub": 11,
+      "episodes": [
+        {
+          "id": "2216",
+          "number": 1,
+          "title": "Episode 1",
+          "is_locked": false,
+          "state": "available",
+          "isPlayable": true,
+          "isUpcoming": false,
+          "available_at": null,
+          "availableInSeconds": null,
+          "badge": "",
+          "duration_seconds": null,
+          "sub": 11,
+          "deliveryDeferred": true,
+          "video_url": "https://hlscdn.vip/media/Z6xRFuDUE6.mp4",
+          "tracks": [
+            {
+              "file": "https://sub.cdnauto.xyz/th/Love%20on%20Hire/1.tl.vtt",
+              "kind": "subtitles",
+              "label": "Filipino",
+              "srclang": "tl",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/th/Love%20on%20Hire/1.km.vtt",
+              "kind": "subtitles",
+              "label": "Khmer",
+              "srclang": "km",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/th/Love%20on%20Hire/1.en.vtt",
+              "kind": "subtitles",
+              "label": "English",
+              "srclang": "en",
+              "default": true,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/th/Love%20on%20Hire/1.id.vtt",
+              "kind": "subtitles",
+              "label": "Indonesian",
+              "srclang": "id",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/th/Love%20on%20Hire/1.ms.vtt",
+              "kind": "subtitles",
+              "label": "Malay",
+              "srclang": "ms",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/th/Love%20on%20Hire/1.pt.vtt",
+              "kind": "subtitles",
+              "label": "Portuguese",
+              "srclang": "pt",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/th/Love%20on%20Hire/1.ar.vtt",
+              "kind": "subtitles",
+              "label": "Arabic",
+              "srclang": "ar",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/th/Love%20on%20Hire/1.hi.vtt",
+              "kind": "subtitles",
+              "label": "Hindi",
+              "srclang": "hi",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/th/Love%20on%20Hire/1.de.vtt",
+              "kind": "subtitles",
+              "label": "German",
+              "srclang": "de",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/th/Love%20on%20Hire/1.fr.vtt",
+              "kind": "subtitles",
+              "label": "French",
+              "srclang": "fr",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/th/Love%20on%20Hire/1.es.vtt",
+              "kind": "subtitles",
+              "label": "Spanish",
+              "srclang": "es",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            }
+          ],
+          "main_sub_url": "https://sub.cdnauto.xyz/th/Love%20on%20Hire/1.en.vtt"
+        },
+        {
+          "id": "33897",
+          "number": 2,
+          "title": "Episode 2",
+          "is_locked": false,
+          "state": "available",
+          "isPlayable": true,
+          "isUpcoming": false,
+          "available_at": null,
+          "availableInSeconds": null,
+          "badge": "",
+          "duration_seconds": null,
+          "sub": 11,
+          "deliveryDeferred": true,
+          "video_url": "https://hlscdn.vip/media/lqGMDulWss.mp4",
+          "tracks": [
+            {
+              "file": "https://sub.cdnauto.xyz/th/Love%20on%20Hire/2.tl.vtt",
+              "kind": "subtitles",
+              "label": "Filipino",
+              "srclang": "tl",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/th/Love%20on%20Hire/2.km.vtt",
+              "kind": "subtitles",
+              "label": "Khmer",
+              "srclang": "km",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/th/Love%20on%20Hire/2.en.vtt",
+              "kind": "subtitles",
+              "label": "English",
+              "srclang": "en",
+              "default": true,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/th/Love%20on%20Hire/2.id.vtt",
+              "kind": "subtitles",
+              "label": "Indonesian",
+              "srclang": "id",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/th/Love%20on%20Hire/2.ms.vtt",
+              "kind": "subtitles",
+              "label": "Malay",
+              "srclang": "ms",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/th/Love%20on%20Hire/2.pt.vtt",
+              "kind": "subtitles",
+              "label": "Portuguese",
+              "srclang": "pt",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/th/Love%20on%20Hire/2.ar.vtt",
+              "kind": "subtitles",
+              "label": "Arabic",
+              "srclang": "ar",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/th/Love%20on%20Hire/2.hi.vtt",
+              "kind": "subtitles",
+              "label": "Hindi",
+              "srclang": "hi",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/th/Love%20on%20Hire/2.de.vtt",
+              "kind": "subtitles",
+              "label": "German",
+              "srclang": "de",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/th/Love%20on%20Hire/2.fr.vtt",
+              "kind": "subtitles",
+              "label": "French",
+              "srclang": "fr",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/th/Love%20on%20Hire/2.es.vtt",
+              "kind": "subtitles",
+              "label": "Spanish",
+              "srclang": "es",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            }
+          ],
+          "main_sub_url": "https://sub.cdnauto.xyz/th/Love%20on%20Hire/2.en.vtt"
+        }
+      ],
+      "status": "ok"
+    },
+    {
+      "id": "2197",
+      "slug": "make-me-tingle",
+      "title": "Make Me Tingle",
+      "description": "A marketer with traditional views on love and marriage tries to navigate a connection with an adult toy company CEO with different values.",
+      "poster": "https://image.tmdb.org/t/p/w1280/s527V7CIE7TdDTDvLCZGqaEQ2CA.jpg",
+      "thumbnail": "https://image.tmdb.org/t/p/w1280/s527V7CIE7TdDTDvLCZGqaEQ2CA.jpg",
+      "type": 1,
+      "country": 2,
+      "content_status": "ongoing",
+      "is_locked": false,
+      "views": 0,
+      "rating": 0,
+      "release_year": 2026,
+      "releaseDate": "2026-10-11T21:38:58",
+      "updatedDate": "2026-10-11T21:38:58",
+      "updated": "2026-10-11T21:38:58",
+      "episode": 6,
+      "latestEpisode": 6,
+      "totalEpisode": 6,
+      "episodeCount": 6,
+      "badge": "EP 6",
+      "api_url": "/api/frontend/content/2197",
+      "sub": 11,
+      "episodes": [
+        {
+          "id": "2197",
+          "number": 1,
+          "title": "Episode 1",
+          "is_locked": false,
+          "state": "available",
+          "isPlayable": true,
+          "isUpcoming": false,
+          "available_at": null,
+          "availableInSeconds": null,
+          "badge": "",
+          "duration_seconds": null,
+          "sub": 11,
+          "deliveryDeferred": true,
+          "video_url": "https://hlscdn.vip/media/oSOfGmJK3o.mp4",
+          "tracks": [
+            {
+              "file": "https://sub.cdnauto.xyz/kr/Make%20Me%20Tingle%202026/1.tl.vtt",
+              "kind": "subtitles",
+              "label": "Filipino",
+              "srclang": "tl",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/kr/Make%20Me%20Tingle%202026/1.km.vtt",
+              "kind": "subtitles",
+              "label": "Khmer",
+              "srclang": "km",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/kr/Make%20Me%20Tingle%202026/1.en.vtt",
+              "kind": "subtitles",
+              "label": "English",
+              "srclang": "en",
+              "default": true,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/kr/Make%20Me%20Tingle%202026/1.id.vtt",
+              "kind": "subtitles",
+              "label": "Indonesian",
+              "srclang": "id",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/kr/Make%20Me%20Tingle%202026/1.ms.vtt",
+              "kind": "subtitles",
+              "label": "Malay",
+              "srclang": "ms",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/kr/Make%20Me%20Tingle%202026/1.pt.vtt",
+              "kind": "subtitles",
+              "label": "Portuguese",
+              "srclang": "pt",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/kr/Make%20Me%20Tingle%202026/1.ar.vtt",
+              "kind": "subtitles",
+              "label": "Arabic",
+              "srclang": "ar",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/kr/Make%20Me%20Tingle%202026/1.hi.vtt",
+              "kind": "subtitles",
+              "label": "Hindi",
+              "srclang": "hi",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/kr/Make%20Me%20Tingle%202026/1.de.vtt",
+              "kind": "subtitles",
+              "label": "German",
+              "srclang": "de",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/kr/Make%20Me%20Tingle%202026/1.fr.vtt",
+              "kind": "subtitles",
+              "label": "French",
+              "srclang": "fr",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/kr/Make%20Me%20Tingle%202026/1.es.vtt",
+              "kind": "subtitles",
+              "label": "Spanish",
+              "srclang": "es",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            }
+          ],
+          "main_sub_url": "https://sub.cdnauto.xyz/kr/Make%20Me%20Tingle%202026/1.en.vtt"
+        },
+        {
+          "id": "33705",
+          "number": 2,
+          "title": "Episode 2",
+          "is_locked": false,
+          "state": "available",
+          "isPlayable": true,
+          "isUpcoming": false,
+          "available_at": null,
+          "availableInSeconds": null,
+          "badge": "",
+          "duration_seconds": null,
+          "sub": 11,
+          "deliveryDeferred": true,
+          "video_url": "https://hlscdn.vip/media/WrwBOOQRJU.mp4",
+          "tracks": [
+            {
+              "file": "https://sub.cdnauto.xyz/kr/Make%20Me%20Tingle%202026/2.tl.vtt",
+              "kind": "subtitles",
+              "label": "Filipino",
+              "srclang": "tl",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/kr/Make%20Me%20Tingle%202026/2.km.vtt",
+              "kind": "subtitles",
+              "label": "Khmer",
+              "srclang": "km",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/kr/Make%20Me%20Tingle%202026/2.en.vtt",
+              "kind": "subtitles",
+              "label": "English",
+              "srclang": "en",
+              "default": true,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/kr/Make%20Me%20Tingle%202026/2.id.vtt",
+              "kind": "subtitles",
+              "label": "Indonesian",
+              "srclang": "id",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/kr/Make%20Me%20Tingle%202026/2.ms.vtt",
+              "kind": "subtitles",
+              "label": "Malay",
+              "srclang": "ms",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/kr/Make%20Me%20Tingle%202026/2.pt.vtt",
+              "kind": "subtitles",
+              "label": "Portuguese",
+              "srclang": "pt",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/kr/Make%20Me%20Tingle%202026/2.ar.vtt",
+              "kind": "subtitles",
+              "label": "Arabic",
+              "srclang": "ar",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/kr/Make%20Me%20Tingle%202026/2.hi.vtt",
+              "kind": "subtitles",
+              "label": "Hindi",
+              "srclang": "hi",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/kr/Make%20Me%20Tingle%202026/2.de.vtt",
+              "kind": "subtitles",
+              "label": "German",
+              "srclang": "de",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/kr/Make%20Me%20Tingle%202026/2.fr.vtt",
+              "kind": "subtitles",
+              "label": "French",
+              "srclang": "fr",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/kr/Make%20Me%20Tingle%202026/2.es.vtt",
+              "kind": "subtitles",
+              "label": "Spanish",
+              "srclang": "es",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            }
+          ],
+          "main_sub_url": "https://sub.cdnauto.xyz/kr/Make%20Me%20Tingle%202026/2.en.vtt"
+        },
+        {
+          "id": "33706",
+          "number": 3,
+          "title": "Episode 3",
+          "is_locked": false,
+          "state": "available",
+          "isPlayable": true,
+          "isUpcoming": false,
+          "available_at": null,
+          "availableInSeconds": null,
+          "badge": "",
+          "duration_seconds": null,
+          "sub": 11,
+          "deliveryDeferred": true,
+          "video_url": "https://hlscdn.vip/media/rX6XXCUp0R.mp4",
+          "tracks": [
+            {
+              "file": "https://sub.cdnauto.xyz/kr/Make%20Me%20Tingle%202026/3.tl.vtt",
+              "kind": "subtitles",
+              "label": "Filipino",
+              "srclang": "tl",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/kr/Make%20Me%20Tingle%202026/3.km.vtt",
+              "kind": "subtitles",
+              "label": "Khmer",
+              "srclang": "km",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/kr/Make%20Me%20Tingle%202026/3.en.vtt",
+              "kind": "subtitles",
+              "label": "English",
+              "srclang": "en",
+              "default": true,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/kr/Make%20Me%20Tingle%202026/3.id.vtt",
+              "kind": "subtitles",
+              "label": "Indonesian",
+              "srclang": "id",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/kr/Make%20Me%20Tingle%202026/3.ms.vtt",
+              "kind": "subtitles",
+              "label": "Malay",
+              "srclang": "ms",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/kr/Make%20Me%20Tingle%202026/3.pt.vtt",
+              "kind": "subtitles",
+              "label": "Portuguese",
+              "srclang": "pt",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/kr/Make%20Me%20Tingle%202026/3.ar.vtt",
+              "kind": "subtitles",
+              "label": "Arabic",
+              "srclang": "ar",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/kr/Make%20Me%20Tingle%202026/3.hi.vtt",
+              "kind": "subtitles",
+              "label": "Hindi",
+              "srclang": "hi",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/kr/Make%20Me%20Tingle%202026/3.de.vtt",
+              "kind": "subtitles",
+              "label": "German",
+              "srclang": "de",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/kr/Make%20Me%20Tingle%202026/3.fr.vtt",
+              "kind": "subtitles",
+              "label": "French",
+              "srclang": "fr",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/kr/Make%20Me%20Tingle%202026/3.es.vtt",
+              "kind": "subtitles",
+              "label": "Spanish",
+              "srclang": "es",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            }
+          ],
+          "main_sub_url": "https://sub.cdnauto.xyz/kr/Make%20Me%20Tingle%202026/3.en.vtt"
+        },
+        {
+          "id": "33707",
+          "number": 4,
+          "title": "Episode 4",
+          "is_locked": false,
+          "state": "available",
+          "isPlayable": true,
+          "isUpcoming": false,
+          "available_at": null,
+          "availableInSeconds": null,
+          "badge": "",
+          "duration_seconds": null,
+          "sub": 11,
+          "deliveryDeferred": true,
+          "video_url": "https://hlscdn.vip/media/4tBsVfl75L.mp4",
+          "tracks": [
+            {
+              "file": "https://sub.cdnauto.xyz/kr/Make%20Me%20Tingle%202026/4.tl.vtt",
+              "kind": "subtitles",
+              "label": "Filipino",
+              "srclang": "tl",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/kr/Make%20Me%20Tingle%202026/4.km.vtt",
+              "kind": "subtitles",
+              "label": "Khmer",
+              "srclang": "km",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/kr/Make%20Me%20Tingle%202026/4.en.vtt",
+              "kind": "subtitles",
+              "label": "English",
+              "srclang": "en",
+              "default": true,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/kr/Make%20Me%20Tingle%202026/4.id.vtt",
+              "kind": "subtitles",
+              "label": "Indonesian",
+              "srclang": "id",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/kr/Make%20Me%20Tingle%202026/4.ms.vtt",
+              "kind": "subtitles",
+              "label": "Malay",
+              "srclang": "ms",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/kr/Make%20Me%20Tingle%202026/4.pt.vtt",
+              "kind": "subtitles",
+              "label": "Portuguese",
+              "srclang": "pt",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/kr/Make%20Me%20Tingle%202026/4.ar.vtt",
+              "kind": "subtitles",
+              "label": "Arabic",
+              "srclang": "ar",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/kr/Make%20Me%20Tingle%202026/4.hi.vtt",
+              "kind": "subtitles",
+              "label": "Hindi",
+              "srclang": "hi",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/kr/Make%20Me%20Tingle%202026/4.de.vtt",
+              "kind": "subtitles",
+              "label": "German",
+              "srclang": "de",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/kr/Make%20Me%20Tingle%202026/4.fr.vtt",
+              "kind": "subtitles",
+              "label": "French",
+              "srclang": "fr",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/kr/Make%20Me%20Tingle%202026/4.es.vtt",
+              "kind": "subtitles",
+              "label": "Spanish",
+              "srclang": "es",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            }
+          ],
+          "main_sub_url": "https://sub.cdnauto.xyz/kr/Make%20Me%20Tingle%202026/4.en.vtt"
+        },
+        {
+          "id": "33892",
+          "number": 5,
+          "title": "Episode 5",
+          "is_locked": false,
+          "state": "available",
+          "isPlayable": true,
+          "isUpcoming": false,
+          "available_at": null,
+          "availableInSeconds": null,
+          "badge": "",
+          "duration_seconds": null,
+          "sub": 11,
+          "deliveryDeferred": true,
+          "video_url": "https://hlscdn.vip/media/qBHEgFWB7t.mp4",
+          "tracks": [
+            {
+              "file": "https://sub.cdnauto.xyz/kr/Make%20Me%20Tingle%202026/5.tl.vtt",
+              "kind": "subtitles",
+              "label": "Filipino",
+              "srclang": "tl",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/kr/Make%20Me%20Tingle%202026/5.km.vtt",
+              "kind": "subtitles",
+              "label": "Khmer",
+              "srclang": "km",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/kr/Make%20Me%20Tingle%202026/5.en.vtt",
+              "kind": "subtitles",
+              "label": "English",
+              "srclang": "en",
+              "default": true,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/kr/Make%20Me%20Tingle%202026/5.id.vtt",
+              "kind": "subtitles",
+              "label": "Indonesian",
+              "srclang": "id",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/kr/Make%20Me%20Tingle%202026/5.ms.vtt",
+              "kind": "subtitles",
+              "label": "Malay",
+              "srclang": "ms",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/kr/Make%20Me%20Tingle%202026/5.pt.vtt",
+              "kind": "subtitles",
+              "label": "Portuguese",
+              "srclang": "pt",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/kr/Make%20Me%20Tingle%202026/5.ar.vtt",
+              "kind": "subtitles",
+              "label": "Arabic",
+              "srclang": "ar",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/kr/Make%20Me%20Tingle%202026/5.hi.vtt",
+              "kind": "subtitles",
+              "label": "Hindi",
+              "srclang": "hi",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/kr/Make%20Me%20Tingle%202026/5.de.vtt",
+              "kind": "subtitles",
+              "label": "German",
+              "srclang": "de",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/kr/Make%20Me%20Tingle%202026/5.fr.vtt",
+              "kind": "subtitles",
+              "label": "French",
+              "srclang": "fr",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/kr/Make%20Me%20Tingle%202026/5.es.vtt",
+              "kind": "subtitles",
+              "label": "Spanish",
+              "srclang": "es",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            }
+          ],
+          "main_sub_url": "https://sub.cdnauto.xyz/kr/Make%20Me%20Tingle%202026/5.en.vtt"
+        },
+        {
+          "id": "33893",
+          "number": 6,
+          "title": "Episode 6",
+          "is_locked": false,
+          "state": "available",
+          "isPlayable": true,
+          "isUpcoming": false,
+          "available_at": null,
+          "availableInSeconds": null,
+          "badge": "",
+          "duration_seconds": null,
+          "sub": 11,
+          "deliveryDeferred": true,
+          "video_url": "https://hlscdn.vip/media/GY0drz82hK.mp4",
+          "tracks": [
+            {
+              "file": "https://sub.cdnauto.xyz/kr/Make%20Me%20Tingle%202026/6.tl.vtt",
+              "kind": "subtitles",
+              "label": "Filipino",
+              "srclang": "tl",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/kr/Make%20Me%20Tingle%202026/6.km.vtt",
+              "kind": "subtitles",
+              "label": "Khmer",
+              "srclang": "km",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/kr/Make%20Me%20Tingle%202026/6.en.vtt",
+              "kind": "subtitles",
+              "label": "English",
+              "srclang": "en",
+              "default": true,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/kr/Make%20Me%20Tingle%202026/6.id.vtt",
+              "kind": "subtitles",
+              "label": "Indonesian",
+              "srclang": "id",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/kr/Make%20Me%20Tingle%202026/6.ms.vtt",
+              "kind": "subtitles",
+              "label": "Malay",
+              "srclang": "ms",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/kr/Make%20Me%20Tingle%202026/6.pt.vtt",
+              "kind": "subtitles",
+              "label": "Portuguese",
+              "srclang": "pt",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/kr/Make%20Me%20Tingle%202026/6.ar.vtt",
+              "kind": "subtitles",
+              "label": "Arabic",
+              "srclang": "ar",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/kr/Make%20Me%20Tingle%202026/6.hi.vtt",
+              "kind": "subtitles",
+              "label": "Hindi",
+              "srclang": "hi",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/kr/Make%20Me%20Tingle%202026/6.de.vtt",
+              "kind": "subtitles",
+              "label": "German",
+              "srclang": "de",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/kr/Make%20Me%20Tingle%202026/6.fr.vtt",
+              "kind": "subtitles",
+              "label": "French",
+              "srclang": "fr",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/kr/Make%20Me%20Tingle%202026/6.es.vtt",
+              "kind": "subtitles",
+              "label": "Spanish",
+              "srclang": "es",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            }
+          ],
+          "main_sub_url": "https://sub.cdnauto.xyz/kr/Make%20Me%20Tingle%202026/6.en.vtt"
+        }
+      ],
+      "status": "ok"
+    },
+    {
+      "id": "2186",
+      "slug": "merry-berry-love",
+      "title": "Merry Berry Love",
+      "description": "When star Korean spatial designer Lee Yubin loses everything, he heads off to a Japanese island. There, he meets Karin, a resilient strawberry farmer. Hailing from different worlds, their lives collide in a big misunderstanding. Buckle up for \"Merry Berry Love,\" a sweet and sour Korea-Japan rom-com.",
+      "poster": "https://image.tmdb.org/t/p/w1280/mrZRYHbLd0qmZnChEL2Qz8Am3Xh.jpg",
+      "thumbnail": "https://image.tmdb.org/t/p/w1280/mrZRYHbLd0qmZnChEL2Qz8Am3Xh.jpg",
+      "type": 1,
+      "country": 6,
+      "content_status": "ongoing",
+      "is_locked": false,
+      "views": 0,
+      "rating": 0,
+      "release_year": 2026,
+      "releaseDate": "2026-10-07T22:13:03",
+      "updatedDate": "2026-10-07T22:13:03",
+      "updated": "2026-10-07T22:13:03",
+      "episode": 3,
+      "latestEpisode": 3,
+      "totalEpisode": 3,
+      "episodeCount": 3,
+      "badge": "EP 3",
+      "api_url": "/api/frontend/content/2186",
+      "sub": 11,
+      "episodes": [
+        {
+          "id": "2186",
+          "number": 1,
+          "title": "Episode 1",
+          "is_locked": false,
+          "state": "available",
+          "isPlayable": true,
+          "isUpcoming": false,
+          "available_at": null,
+          "availableInSeconds": null,
+          "badge": "",
+          "duration_seconds": null,
+          "sub": 11,
+          "deliveryDeferred": true,
+          "video_url": "https://hlscdn.vip/media/HG4qKmoSuN.mp4",
+          "tracks": [
+            {
+              "file": "https://sub.cdnauto.xyz/jp/Merry%20Berry%20Love/1.tl.vtt",
+              "kind": "subtitles",
+              "label": "Filipino",
+              "srclang": "tl",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/jp/Merry%20Berry%20Love/1.km.vtt",
+              "kind": "subtitles",
+              "label": "Khmer",
+              "srclang": "km",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/jp/Merry%20Berry%20Love/1.en.vtt",
+              "kind": "subtitles",
+              "label": "English",
+              "srclang": "en",
+              "default": true,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/jp/Merry%20Berry%20Love/1.id.vtt",
+              "kind": "subtitles",
+              "label": "Indonesian",
+              "srclang": "id",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/jp/Merry%20Berry%20Love/1.ms.vtt",
+              "kind": "subtitles",
+              "label": "Malay",
+              "srclang": "ms",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/jp/Merry%20Berry%20Love/1.pt.vtt",
+              "kind": "subtitles",
+              "label": "Portuguese",
+              "srclang": "pt",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/jp/Merry%20Berry%20Love/1.ar.vtt",
+              "kind": "subtitles",
+              "label": "Arabic",
+              "srclang": "ar",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/jp/Merry%20Berry%20Love/1.hi.vtt",
+              "kind": "subtitles",
+              "label": "Hindi",
+              "srclang": "hi",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/jp/Merry%20Berry%20Love/1.de.vtt",
+              "kind": "subtitles",
+              "label": "German",
+              "srclang": "de",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/jp/Merry%20Berry%20Love/1.fr.vtt",
+              "kind": "subtitles",
+              "label": "French",
+              "srclang": "fr",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/jp/Merry%20Berry%20Love/1.es.vtt",
+              "kind": "subtitles",
+              "label": "Spanish",
+              "srclang": "es",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            }
+          ],
+          "main_sub_url": "https://sub.cdnauto.xyz/jp/Merry%20Berry%20Love/1.en.vtt"
+        },
+        {
+          "id": "33662",
+          "number": 2,
+          "title": "Episode 2",
+          "is_locked": false,
+          "state": "available",
+          "isPlayable": true,
+          "isUpcoming": false,
+          "available_at": null,
+          "availableInSeconds": null,
+          "badge": "",
+          "duration_seconds": null,
+          "sub": 11,
+          "deliveryDeferred": true,
+          "video_url": "https://hlscdn.vip/media/LAIsXCNshM.mp4",
+          "tracks": [
+            {
+              "file": "https://sub.cdnauto.xyz/jp/Merry%20Berry%20Love/2.tl.vtt",
+              "kind": "subtitles",
+              "label": "Filipino",
+              "srclang": "tl",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/jp/Merry%20Berry%20Love/2.km.vtt",
+              "kind": "subtitles",
+              "label": "Khmer",
+              "srclang": "km",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/jp/Merry%20Berry%20Love/2.en.vtt",
+              "kind": "subtitles",
+              "label": "English",
+              "srclang": "en",
+              "default": true,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/jp/Merry%20Berry%20Love/2.id.vtt",
+              "kind": "subtitles",
+              "label": "Indonesian",
+              "srclang": "id",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/jp/Merry%20Berry%20Love/2.ms.vtt",
+              "kind": "subtitles",
+              "label": "Malay",
+              "srclang": "ms",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/jp/Merry%20Berry%20Love/2.pt.vtt",
+              "kind": "subtitles",
+              "label": "Portuguese",
+              "srclang": "pt",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/jp/Merry%20Berry%20Love/2.ar.vtt",
+              "kind": "subtitles",
+              "label": "Arabic",
+              "srclang": "ar",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/jp/Merry%20Berry%20Love/2.hi.vtt",
+              "kind": "subtitles",
+              "label": "Hindi",
+              "srclang": "hi",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/jp/Merry%20Berry%20Love/2.de.vtt",
+              "kind": "subtitles",
+              "label": "German",
+              "srclang": "de",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/jp/Merry%20Berry%20Love/2.fr.vtt",
+              "kind": "subtitles",
+              "label": "French",
+              "srclang": "fr",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/jp/Merry%20Berry%20Love/2.es.vtt",
+              "kind": "subtitles",
+              "label": "Spanish",
+              "srclang": "es",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            }
+          ],
+          "main_sub_url": "https://sub.cdnauto.xyz/jp/Merry%20Berry%20Love/2.en.vtt"
+        },
+        {
+          "id": "33888",
+          "number": 3,
+          "title": "Episode 3",
+          "is_locked": false,
+          "state": "available",
+          "isPlayable": true,
+          "isUpcoming": false,
+          "available_at": null,
+          "availableInSeconds": null,
+          "badge": "",
+          "duration_seconds": null,
+          "sub": 11,
+          "deliveryDeferred": true,
+          "video_url": "https://hlscdn.vip/media/YlfhSRd9NR.mp4",
+          "tracks": [
+            {
+              "file": "https://sub.cdnauto.xyz/jp/Merry%20Berry%20Love/3.tl.vtt",
+              "kind": "subtitles",
+              "label": "Filipino",
+              "srclang": "tl",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/jp/Merry%20Berry%20Love/3.km.vtt",
+              "kind": "subtitles",
+              "label": "Khmer",
+              "srclang": "km",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/jp/Merry%20Berry%20Love/3.en.vtt",
+              "kind": "subtitles",
+              "label": "English",
+              "srclang": "en",
+              "default": true,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/jp/Merry%20Berry%20Love/3.id.vtt",
+              "kind": "subtitles",
+              "label": "Indonesian",
+              "srclang": "id",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/jp/Merry%20Berry%20Love/3.ms.vtt",
+              "kind": "subtitles",
+              "label": "Malay",
+              "srclang": "ms",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/jp/Merry%20Berry%20Love/3.pt.vtt",
+              "kind": "subtitles",
+              "label": "Portuguese",
+              "srclang": "pt",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/jp/Merry%20Berry%20Love/3.ar.vtt",
+              "kind": "subtitles",
+              "label": "Arabic",
+              "srclang": "ar",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/jp/Merry%20Berry%20Love/3.hi.vtt",
+              "kind": "subtitles",
+              "label": "Hindi",
+              "srclang": "hi",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/jp/Merry%20Berry%20Love/3.de.vtt",
+              "kind": "subtitles",
+              "label": "German",
+              "srclang": "de",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/jp/Merry%20Berry%20Love/3.fr.vtt",
+              "kind": "subtitles",
+              "label": "French",
+              "srclang": "fr",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/jp/Merry%20Berry%20Love/3.es.vtt",
+              "kind": "subtitles",
+              "label": "Spanish",
+              "srclang": "es",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            }
+          ],
+          "main_sub_url": "https://sub.cdnauto.xyz/jp/Merry%20Berry%20Love/3.en.vtt"
+        }
+      ],
+      "status": "ok"
+    },
+    {
+      "id": "2215",
+      "slug": "built-in-love",
+      "title": "Built in Love",
+      "description": "Soul is a skilled architect. Xinxin is a successful Feng Shui master. When these two women with polar opposite personalities are hired to build a house together for its homeowners, a battle between them ensues. But will there be space for love to bloom?",
+      "poster": "https://image.tmdb.org/t/p/w1280/iGygCrsAVOCoLEZkbPuN5WdY2LZ.jpg",
+      "thumbnail": "https://image.tmdb.org/t/p/w1280/iGygCrsAVOCoLEZkbPuN5WdY2LZ.jpg",
+      "type": 1,
+      "country": 4,
+      "content_status": "ongoing",
+      "is_locked": false,
+      "views": 0,
+      "rating": 0,
+      "release_year": 2026,
+      "releaseDate": "2026-10-21T22:44:33",
+      "updatedDate": "2026-10-21T22:44:33",
+      "updated": "2026-10-21T22:44:33",
+      "episode": 1,
+      "latestEpisode": 1,
+      "totalEpisode": 1,
+      "episodeCount": 1,
+      "badge": "EP 1",
+      "api_url": "/api/frontend/content/2215",
+      "sub": 11,
+      "episodes": [
+        {
+          "id": "2215",
+          "number": 1,
+          "title": "Episode 1",
+          "is_locked": false,
+          "state": "available",
+          "isPlayable": true,
+          "isUpcoming": false,
+          "available_at": null,
+          "availableInSeconds": null,
+          "badge": "",
+          "duration_seconds": null,
+          "sub": 11,
+          "deliveryDeferred": true,
+          "video_url": "https://hlscdn.vip/media/6p3tvZADqK.mp4",
+          "tracks": [
+            {
+              "file": "https://sub.cdnauto.xyz/th/Built%20in%20Love/1.tl.vtt",
+              "kind": "subtitles",
+              "label": "Filipino",
+              "srclang": "tl",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/th/Built%20in%20Love/1.km.vtt",
+              "kind": "subtitles",
+              "label": "Khmer",
+              "srclang": "km",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/th/Built%20in%20Love/1.en.vtt",
+              "kind": "subtitles",
+              "label": "English",
+              "srclang": "en",
+              "default": true,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/th/Built%20in%20Love/1.id.vtt",
+              "kind": "subtitles",
+              "label": "Indonesian",
+              "srclang": "id",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/th/Built%20in%20Love/1.ms.vtt",
+              "kind": "subtitles",
+              "label": "Malay",
+              "srclang": "ms",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/th/Built%20in%20Love/1.pt.vtt",
+              "kind": "subtitles",
+              "label": "Portuguese",
+              "srclang": "pt",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/th/Built%20in%20Love/1.ar.vtt",
+              "kind": "subtitles",
+              "label": "Arabic",
+              "srclang": "ar",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/th/Built%20in%20Love/1.hi.vtt",
+              "kind": "subtitles",
+              "label": "Hindi",
+              "srclang": "hi",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/th/Built%20in%20Love/1.de.vtt",
+              "kind": "subtitles",
+              "label": "German",
+              "srclang": "de",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/th/Built%20in%20Love/1.fr.vtt",
+              "kind": "subtitles",
+              "label": "French",
+              "srclang": "fr",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/th/Built%20in%20Love/1.es.vtt",
+              "kind": "subtitles",
+              "label": "Spanish",
+              "srclang": "es",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            }
+          ],
+          "main_sub_url": "https://sub.cdnauto.xyz/th/Built%20in%20Love/1.en.vtt"
+        }
+      ],
+      "status": "ok"
+    },
+    {
+      "id": "2214",
+      "slug": "love-in-disguise",
+      "title": "Love in Disguise",
+      "description": "Taekang Group's successor, Yoon Yi-jun, is the prime suspect of a shocking murder. To uncover the truth, Kang Jae-hee goes undercover as a male secretary to keep an eye on Yi-jun. The closer they get to what really happened, the closer Yi-jun and Jae-hee become. Will Jae-hee, who is hiding her identity, and Yi-jun, who is hiding a secret, be able to let their true feelings be known to one another?",
+      "poster": "https://image.tmdb.org/t/p/w1280/9qbj4CGHMtrnpdpTVtVVk9faqKK.jpg",
+      "thumbnail": "https://image.tmdb.org/t/p/w1280/9qbj4CGHMtrnpdpTVtVVk9faqKK.jpg",
+      "type": 1,
+      "country": 2,
+      "content_status": "ongoing",
+      "is_locked": false,
+      "views": 0,
+      "rating": 0,
+      "release_year": 2026,
+      "releaseDate": "2026-10-19T21:14:09",
+      "updatedDate": "2026-10-19T21:14:09",
+      "updated": "2026-10-19T21:14:09",
+      "episode": 2,
+      "latestEpisode": 2,
+      "totalEpisode": 2,
+      "episodeCount": 2,
+      "badge": "EP 2",
+      "api_url": "/api/frontend/content/2214",
+      "sub": 11,
+      "episodes": [
+        {
+          "id": "2214",
+          "number": 1,
+          "title": "Episode 1",
+          "is_locked": false,
+          "state": "available",
+          "isPlayable": true,
+          "isUpcoming": false,
+          "available_at": null,
+          "availableInSeconds": null,
+          "badge": "",
+          "duration_seconds": null,
+          "sub": 11,
+          "deliveryDeferred": true,
+          "video_url": "https://hlscdn.vip/media/5Jf0vkIH6t.mp4",
+          "tracks": [
+            {
+              "file": "https://sub.cdnauto.xyz/kr/Love%20in%20Disguise/1.tl.vtt",
+              "kind": "subtitles",
+              "label": "Filipino",
+              "srclang": "tl",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/kr/Love%20in%20Disguise/1.km.vtt",
+              "kind": "subtitles",
+              "label": "Khmer",
+              "srclang": "km",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/kr/Love%20in%20Disguise/1.en.vtt",
+              "kind": "subtitles",
+              "label": "English",
+              "srclang": "en",
+              "default": true,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/kr/Love%20in%20Disguise/1.id.vtt",
+              "kind": "subtitles",
+              "label": "Indonesian",
+              "srclang": "id",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/kr/Love%20in%20Disguise/1.ms.vtt",
+              "kind": "subtitles",
+              "label": "Malay",
+              "srclang": "ms",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/kr/Love%20in%20Disguise/1.pt.vtt",
+              "kind": "subtitles",
+              "label": "Portuguese",
+              "srclang": "pt",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/kr/Love%20in%20Disguise/1.ar.vtt",
+              "kind": "subtitles",
+              "label": "Arabic",
+              "srclang": "ar",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/kr/Love%20in%20Disguise/1.hi.vtt",
+              "kind": "subtitles",
+              "label": "Hindi",
+              "srclang": "hi",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/kr/Love%20in%20Disguise/1.de.vtt",
+              "kind": "subtitles",
+              "label": "German",
+              "srclang": "de",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/kr/Love%20in%20Disguise/1.fr.vtt",
+              "kind": "subtitles",
+              "label": "French",
+              "srclang": "fr",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/kr/Love%20in%20Disguise/1.es.vtt",
+              "kind": "subtitles",
+              "label": "Spanish",
+              "srclang": "es",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            }
+          ],
+          "main_sub_url": "https://sub.cdnauto.xyz/kr/Love%20in%20Disguise/1.en.vtt"
+        },
+        {
+          "id": "33861",
+          "number": 2,
+          "title": "Episode 2",
+          "is_locked": false,
+          "state": "available",
+          "isPlayable": true,
+          "isUpcoming": false,
+          "available_at": null,
+          "availableInSeconds": null,
+          "badge": "",
+          "duration_seconds": null,
+          "sub": 11,
+          "deliveryDeferred": true,
+          "video_url": "https://hlscdn.vip/media/kHBDijTz18.mp4",
+          "tracks": [
+            {
+              "file": "https://sub.cdnauto.xyz/kr/Love%20in%20Disguise/2.tl.vtt",
+              "kind": "subtitles",
+              "label": "Filipino",
+              "srclang": "tl",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/kr/Love%20in%20Disguise/2.km.vtt",
+              "kind": "subtitles",
+              "label": "Khmer",
+              "srclang": "km",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/kr/Love%20in%20Disguise/2.en.vtt",
+              "kind": "subtitles",
+              "label": "English",
+              "srclang": "en",
+              "default": true,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/kr/Love%20in%20Disguise/2.id.vtt",
+              "kind": "subtitles",
+              "label": "Indonesian",
+              "srclang": "id",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/kr/Love%20in%20Disguise/2.ms.vtt",
+              "kind": "subtitles",
+              "label": "Malay",
+              "srclang": "ms",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/kr/Love%20in%20Disguise/2.pt.vtt",
+              "kind": "subtitles",
+              "label": "Portuguese",
+              "srclang": "pt",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/kr/Love%20in%20Disguise/2.ar.vtt",
+              "kind": "subtitles",
+              "label": "Arabic",
+              "srclang": "ar",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/kr/Love%20in%20Disguise/2.hi.vtt",
+              "kind": "subtitles",
+              "label": "Hindi",
+              "srclang": "hi",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/kr/Love%20in%20Disguise/2.de.vtt",
+              "kind": "subtitles",
+              "label": "German",
+              "srclang": "de",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/kr/Love%20in%20Disguise/2.fr.vtt",
+              "kind": "subtitles",
+              "label": "French",
+              "srclang": "fr",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            },
+            {
+              "file": "https://sub.cdnauto.xyz/kr/Love%20in%20Disguise/2.es.vtt",
+              "kind": "subtitles",
+              "label": "Spanish",
+              "srclang": "es",
+              "default": false,
+              "encrypted": false,
+              "preset": 0
+            }
+          ],
+          "main_sub_url": "https://sub.cdnauto.xyz/kr/Love%20in%20Disguise/2.en.vtt"
+        }
+      ],
+      "status": "ok"
+    },
+    {
       "id": "2213",
       "slug": "cycle-of-sin",
       "title": "Cycle of Sin",
@@ -1225922,5 +1231394,5 @@
       "status": "ok"
     }
   ],
-  "updatedAt": "2026-10-18T02:03:14.870Z"
+  "updatedAt": "2026-10-25T02:13:25.759Z"
 }
